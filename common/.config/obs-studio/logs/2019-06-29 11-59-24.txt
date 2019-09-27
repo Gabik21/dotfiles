@@ -1,0 +1,291 @@
+11:59:24.095: CPU Name: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz
+11:59:24.095: CPU Speed: 4100.000MHz
+11:59:24.095: Physical Cores: 4, Logical Cores: 4
+11:59:24.095: Physical Memory: 16000MB Total, 2080MB Free
+11:59:24.095: Kernel Version: Linux 4.15.0-54-generic
+11:59:24.096: Distribution: "Ubuntu" "18.04"
+11:59:24.096: Portable mode: false
+11:59:24.112: OBS 0.0.1 (linux)
+11:59:24.112: ---------------------------------
+11:59:24.139: ---------------------------------
+11:59:24.139: audio settings reset:
+11:59:24.139: 	samples per sec: 44100
+11:59:24.139: 	speakers:        2
+11:59:24.147: ---------------------------------
+11:59:24.147: Initializing OpenGL...
+11:59:24.214: OpenGL version: 3.2.0 NVIDIA 418.56
+11:59:24.227: ---------------------------------
+11:59:24.227: video settings reset:
+11:59:24.227: 	base resolution:   1920x1080
+11:59:24.227: 	output resolution: 1920x1080
+11:59:24.227: 	downscale filter:  Bicubic
+11:59:24.227: 	fps:               60/1
+11:59:24.227: 	format:            NV12
+11:59:24.227: Audio monitoring device:
+11:59:24.227: 	name: Default
+11:59:24.227: 	id: default
+11:59:24.228: ---------------------------------
+11:59:24.238: No blackmagic support
+11:59:24.290: NVENC supported
+11:59:24.302: VLC found, VLC video source enabled
+11:59:24.302: ---------------------------------
+11:59:24.302:   Loaded Modules:
+11:59:24.302:     vlc-video.so
+11:59:24.302:     text-freetype2.so
+11:59:24.302:     rtmp-services.so
+11:59:24.302:     obs-x264.so
+11:59:24.302:     obs-transitions.so
+11:59:24.302:     obs-outputs.so
+11:59:24.302:     obs-filters.so
+11:59:24.302:     obs-ffmpeg.so
+11:59:24.302:     linux-v4l2.so
+11:59:24.302:     linux-pulseaudio.so
+11:59:24.302:     linux-jack.so
+11:59:24.302:     linux-decklink.so
+11:59:24.302:     linux-capture.so
+11:59:24.302:     linux-alsa.so
+11:59:24.302:     image-source.so
+11:59:24.302:     frontend-tools.so
+11:59:24.302: ---------------------------------
+11:59:24.302: ==== Startup complete ===============================================
+11:59:24.305: All scene data cleared
+11:59:24.305: ------------------------------------------------
+11:59:24.307: pulse-input: Server name: 'pulseaudio 12.2-2'
+11:59:24.307: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+11:59:24.307: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+11:59:24.308: pulse-input: Server name: 'pulseaudio 12.2-2'
+11:59:24.308: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+11:59:24.308: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+11:59:24.336: xcompcap: [window-capture: 'intellij'] update settings:
+11:59:24.336: 	title: paperspigot-parent [~/git/GSpigot] - .../GSpigot-Server/src/main/java/com/pvpdojo/xray/KohiAntiXray.java [gspigot] - IntelliJ IDEA
+11:59:24.336: 	class: sun-awt-X11-XFramePeer
+11:59:24.337: xshm-input: Geometry 1280x1024 @ 1920,56
+11:59:24.345: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+11:59:24.345: 	title: Minecraft 1.7.10
+11:59:24.345: 	class: Minecraft 1.7.10
+11:59:24.347: Switched to scene 'Scene'
+11:59:24.347: ------------------------------------------------
+11:59:24.347: Loaded scenes:
+11:59:24.347: - scene 'Scene':
+11:59:24.347:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+11:59:24.347:     - source: 'Screen Capture (XSHM)' (xshm_input)
+11:59:24.347:     - source: 'intellij' (xcomposite_input)
+11:59:24.347: ------------------------------------------------
+11:59:24.882: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds
+11:59:28.179: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+11:59:28.179: 	title: Minecraft 1.7.10
+11:59:28.179: 	class: Minecraft 1.7.10
+11:59:28.487: adding 23 milliseconds of audio buffering, total audio buffering is now 69 milliseconds
+11:59:39.149: ---------------------------------
+11:59:39.156: [NVENC encoder: 'recording_h264'] settings:
+11:59:39.156: 	rate_control: CBR
+11:59:39.156: 	bitrate:      15000
+11:59:39.156: 	cqp:          0
+11:59:39.156: 	keyint:       250
+11:59:39.156: 	preset:       default
+11:59:39.156: 	profile:      main
+11:59:39.156: 	level:        auto
+11:59:39.156: 	width:        1920
+11:59:39.156: 	height:       1080
+11:59:39.156: 	2-pass:       true
+11:59:39.156: 	b-frames:     2
+11:59:39.156: 	GPU:          0
+11:59:39.156: 
+11:59:39.279: ---------------------------------
+11:59:39.279: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+11:59:39.279: 
+11:59:39.287: ==== Recording Start ===============================================
+11:59:39.287: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-06-29 11-59-39.flv'...
+12:00:50.188: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-06-29 11-59-39.flv' stopped
+12:00:50.188: Output 'adv_file_output': stopping
+12:00:50.188: Output 'adv_file_output': Total frames output: 4242
+12:00:50.188: Output 'adv_file_output': Total drawn frames: 4252 (4254 attempted)
+12:00:50.188: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 2 (0,0%)
+12:00:50.188: ==== Recording Stop ================================================
+12:00:52.136: ---------------------------------
+12:00:52.136: [NVENC encoder: 'recording_h264'] settings:
+12:00:52.136: 	rate_control: CBR
+12:00:52.136: 	bitrate:      15000
+12:00:52.136: 	cqp:          0
+12:00:52.136: 	keyint:       250
+12:00:52.136: 	preset:       default
+12:00:52.136: 	profile:      main
+12:00:52.136: 	level:        auto
+12:00:52.136: 	width:        1920
+12:00:52.136: 	height:       1080
+12:00:52.136: 	2-pass:       true
+12:00:52.136: 	b-frames:     2
+12:00:52.136: 	GPU:          0
+12:00:52.136: 
+12:00:52.213: ---------------------------------
+12:00:52.213: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+12:00:52.213: 
+12:00:52.218: ==== Recording Start ===============================================
+12:00:52.218: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-06-29 12-00-52.flv'...
+12:01:16.187: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-06-29 12-00-52.flv' stopped
+12:01:16.187: Output 'adv_file_output': stopping
+12:01:16.187: Output 'adv_file_output': Total frames output: 1427
+12:01:16.187: Output 'adv_file_output': Total drawn frames: 1438
+12:01:16.187: ==== Recording Stop ================================================
+12:02:23.910: ---------------------------------
+12:02:23.910: [NVENC encoder: 'recording_h264'] settings:
+12:02:23.910: 	rate_control: CBR
+12:02:23.910: 	bitrate:      15000
+12:02:23.910: 	cqp:          0
+12:02:23.910: 	keyint:       250
+12:02:23.910: 	preset:       default
+12:02:23.910: 	profile:      main
+12:02:23.910: 	level:        auto
+12:02:23.910: 	width:        1920
+12:02:23.910: 	height:       1080
+12:02:23.910: 	2-pass:       true
+12:02:23.910: 	b-frames:     2
+12:02:23.910: 	GPU:          0
+12:02:23.910: 
+12:02:23.991: ---------------------------------
+12:02:23.991: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+12:02:23.991: 
+12:02:23.997: ==== Recording Start ===============================================
+12:02:23.997: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-06-29 12-02-23.flv'...
+12:03:31.875: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+12:03:31.875: 	title: Minecraft 1.7.10
+12:03:31.875: 	class: Minecraft 1.7.10
+12:03:31.936: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+12:03:31.936: 	title: Minecraft 1.7.10
+12:03:31.936: 	class: Minecraft 1.7.10
+12:03:31.973: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+12:03:31.973: 	title: Minecraft 1.7.10
+12:03:31.973: 	class: Minecraft 1.7.10
+12:04:31.903: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-06-29 12-02-23.flv' stopped
+12:04:31.917: Output 'adv_file_output': stopping
+12:04:31.917: Output 'adv_file_output': Total frames output: 7663
+12:04:31.917: Output 'adv_file_output': Total drawn frames: 7669 (7676 attempted)
+12:04:31.917: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 7 (0,1%)
+12:04:31.918: ==== Recording Stop ================================================
+12:04:34.239: ---------------------------------
+12:04:34.240: [NVENC encoder: 'recording_h264'] settings:
+12:04:34.240: 	rate_control: CBR
+12:04:34.240: 	bitrate:      15000
+12:04:34.240: 	cqp:          0
+12:04:34.240: 	keyint:       250
+12:04:34.240: 	preset:       default
+12:04:34.240: 	profile:      main
+12:04:34.240: 	level:        auto
+12:04:34.240: 	width:        1920
+12:04:34.240: 	height:       1080
+12:04:34.240: 	2-pass:       true
+12:04:34.240: 	b-frames:     2
+12:04:34.240: 	GPU:          0
+12:04:34.240: 
+12:04:34.354: ---------------------------------
+12:04:34.355: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+12:04:34.355: 
+12:04:34.359: ==== Recording Start ===============================================
+12:04:34.359: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-06-29 12-04-34.flv'...
+12:04:37.084: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+12:04:37.084: 	title: Minecraft 1.7.10
+12:04:37.084: 	class: Minecraft 1.7.10
+12:05:40.837: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-06-29 12-04-34.flv' stopped
+12:05:40.837: Output 'adv_file_output': stopping
+12:05:40.837: Output 'adv_file_output': Total frames output: 3976
+12:05:40.837: Output 'adv_file_output': Total drawn frames: 3986 (3989 attempted)
+12:05:40.837: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 3 (0,1%)
+12:05:40.837: ==== Recording Stop ================================================
+12:05:41.784: ---------------------------------
+12:05:41.784: [NVENC encoder: 'recording_h264'] settings:
+12:05:41.784: 	rate_control: CBR
+12:05:41.784: 	bitrate:      15000
+12:05:41.784: 	cqp:          0
+12:05:41.784: 	keyint:       250
+12:05:41.784: 	preset:       default
+12:05:41.784: 	profile:      main
+12:05:41.784: 	level:        auto
+12:05:41.784: 	width:        1920
+12:05:41.784: 	height:       1080
+12:05:41.784: 	2-pass:       true
+12:05:41.784: 	b-frames:     2
+12:05:41.784: 	GPU:          0
+12:05:41.784: 
+12:05:41.870: ---------------------------------
+12:05:41.871: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+12:05:41.871: 
+12:05:41.875: ==== Recording Start ===============================================
+12:05:41.875: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-06-29 12-05-41.flv'...
+12:06:42.121: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-06-29 12-05-41.flv' stopped
+12:06:42.121: Output 'adv_file_output': stopping
+12:06:42.121: Output 'adv_file_output': Total frames output: 3603
+12:06:42.121: Output 'adv_file_output': Total drawn frames: 3615
+12:06:42.121: ==== Recording Stop ================================================
+12:07:09.017: ==== Shutting down ==================================================
+12:07:09.017: Switched to scene '(null)'
+12:07:09.044: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+12:07:09.044: pulse-input: Got 136487 packets with 22306887 frames
+12:07:09.046: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+12:07:09.046: pulse-input: Got 48736 packets with 22307448 frames
+12:07:09.046: All scene data cleared
+12:07:09.047: ------------------------------------------------
+12:07:09.098: Freeing OBS context data
+12:07:09.117: == Profiler Results =============================
+12:07:09.117: run_program_init: 447,975 ms
+12:07:09.117:  ┣OBSApp::AppInit: 1,668 ms
+12:07:09.117:  ┃ ┗OBSApp::InitLocale: 1,24 ms
+12:07:09.117:  ┗OBSApp::OBSInit: 361,043 ms
+12:07:09.117:    ┣obs_startup: 18,536 ms
+12:07:09.117:    ┗OBSBasic::OBSInit: 277,174 ms
+12:07:09.117:      ┣OBSBasic::InitBasicConfig: 0,063 ms
+12:07:09.117:      ┣OBSBasic::ResetAudio: 0,074 ms
+12:07:09.117:      ┣OBSBasic::ResetVideo: 88,092 ms
+12:07:09.117:      ┣OBSBasic::InitOBSCallbacks: 0,003 ms
+12:07:09.117:      ┣OBSBasic::InitHotkeys: 0,024 ms
+12:07:09.117:      ┣obs_load_all_modules: 74,221 ms
+12:07:09.117:      ┃ ┣obs_init_module(frontend-tools.so): 2,438 ms
+12:07:09.117:      ┃ ┣obs_init_module(image-source.so): 0,002 ms
+12:07:09.117:      ┃ ┣obs_init_module(linux-alsa.so): 0,001 ms
+12:07:09.117:      ┃ ┣obs_init_module(linux-capture.so): 0,21 ms
+12:07:09.117:      ┃ ┣obs_init_module(linux-decklink.so): 0,095 ms
+12:07:09.117:      ┃ ┣obs_init_module(linux-jack.so): 0,002 ms
+12:07:09.117:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0,002 ms
+12:07:09.117:      ┃ ┣obs_init_module(linux-v4l2.so): 0,001 ms
+12:07:09.117:      ┃ ┣obs_init_module(obs-ffmpeg.so): 3,394 ms
+12:07:09.117:      ┃ ┃ ┗nvenc_check: 3,356 ms
+12:07:09.117:      ┃ ┣obs_init_module(obs-filters.so): 0,008 ms
+12:07:09.117:      ┃ ┣obs_init_module(obs-outputs.so): 0,003 ms
+12:07:09.117:      ┃ ┣obs_init_module(obs-transitions.so): 0,007 ms
+12:07:09.117:      ┃ ┣obs_init_module(obs-x264.so): 0,001 ms
+12:07:09.117:      ┃ ┣obs_init_module(rtmp-services.so): 0,92 ms
+12:07:09.117:      ┃ ┣obs_init_module(text-freetype2.so): 0,008 ms
+12:07:09.117:      ┃ ┗obs_init_module(vlc-video.so): 3,466 ms
+12:07:09.117:      ┣OBSBasic::ResetOutputs: 0,526 ms
+12:07:09.117:      ┣OBSBasic::CreateHotkeys: 0,016 ms
+12:07:09.117:      ┣OBSBasic::InitService: 1,257 ms
+12:07:09.117:      ┣OBSBasic::InitPrimitives: 0,147 ms
+12:07:09.117:      ┗OBSBasic::Load: 43,58 ms
+12:07:09.117: obs_hotkey_thread(25 ms): min=0,031 ms, median=0,096 ms, max=23,455 ms, 99th percentile=3,455 ms, 100% below 25 ms
+12:07:09.117: audio_thread(Audio): min=0 ms, median=0,487 ms, max=22,705 ms, 99th percentile=3,928 ms
+12:07:09.117:  ┗receive_audio: min=0,002 ms, median=0,461 ms, max=15,732 ms, 99th percentile=4,053 ms, 0,767111 calls per parent call
+12:07:09.117:    ┣buffer_audio: min=0 ms, median=0,001 ms, max=0,147 ms, 99th percentile=0,002 ms
+12:07:09.117:    ┗do_encode: min=0,013 ms, median=0,459 ms, max=15,729 ms, 99th percentile=4,051 ms
+12:07:09.117:      ┗encode(Track1): min=0,013 ms, median=0,452 ms, max=15,241 ms, 99th percentile=4,012 ms
+12:07:09.117: obs_graphics_thread(16,6667 ms): min=0,767 ms, median=1,462 ms, max=51,828 ms, 99th percentile=7,909 ms, 99,7991% below 16,667 ms
+12:07:09.117:  ┣tick_sources: min=0 ms, median=0,233 ms, max=51,033 ms, 99th percentile=3,681 ms
+12:07:09.117:  ┣output_frame: min=0,398 ms, median=0,491 ms, max=28,243 ms, 99th percentile=2,277 ms
+12:07:09.117:  ┃ ┣gs_context(video->graphics): min=0,156 ms, median=0,22 ms, max=28,243 ms, 99th percentile=1,065 ms
+12:07:09.117:  ┃ ┃ ┣render_video: min=0,113 ms, median=0,15 ms, max=12,875 ms, 99th percentile=0,604 ms
+12:07:09.117:  ┃ ┃ ┃ ┣render_main_texture: min=0,034 ms, median=0,076 ms, max=7,563 ms, 99th percentile=0,233 ms
+12:07:09.117:  ┃ ┃ ┃ ┣render_output_texture: min=0,001 ms, median=0,019 ms, max=1,58 ms, 99th percentile=0,076 ms
+12:07:09.117:  ┃ ┃ ┃ ┣render_convert_texture: min=0,001 ms, median=0,027 ms, max=0,896 ms, 99th percentile=0,099 ms
+12:07:09.117:  ┃ ┃ ┃ ┗stage_output_texture: min=0 ms, median=0,018 ms, max=9,01 ms, 99th percentile=0,249 ms
+12:07:09.117:  ┃ ┃ ┣download_frame: min=0 ms, median=0,001 ms, max=2,023 ms, 99th percentile=0,003 ms
+12:07:09.117:  ┃ ┃ ┗gs_flush: min=0,003 ms, median=0,003 ms, max=2,197 ms, 99th percentile=0,021 ms
+12:07:09.117:  ┃ ┗output_video_data: min=0,214 ms, median=0,263 ms, max=8,879 ms, 99th percentile=1,828 ms
+12:07:09.117:  ┗render_displays: min=0,062 ms, median=0,435 ms, max=34,734 ms, 99th percentile=3,375 ms
+12:07:09.117: video_thread(video): min=0 ms, median=1,017 ms, max=20,414 ms, 99th percentile=2,365 ms
+12:07:09.117:  ┗receive_video: min=0 ms, median=1,143 ms, max=20,413 ms, 99th percentile=2,517 ms, 0,752484 calls per parent call
+12:07:09.117:    ┗do_encode: min=0,741 ms, median=1,143 ms, max=20,413 ms, 99th percentile=2,515 ms
+12:07:09.117:      ┗encode(recording_h264): min=0,726 ms, median=1,113 ms, max=15,37 ms, 99th percentile=2,401 ms
+12:07:09.117: =================================================
+12:07:09.117: == Profiler Time Between Calls ==================
+12:07:09.117: obs_hotkey_thread(25 ms): min=25,046 ms, median=25,165 ms, max=48,513 ms, 93,1329% within ±2% of 25 ms (0% lower, 6,86707% higher)
+12:07:09.117: obs_graphics_thread(16,6667 ms): min=3,196 ms, median=16,667 ms, max=51,85 ms, 96,7427% within ±2% of 16,667 ms (1,63582% lower, 1,62147% higher)
+12:07:09.117: =================================================
+12:07:09.152: Number of memory leaks: 0

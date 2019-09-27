@@ -1,0 +1,1342 @@
+19:33:02.926: CPU Name: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz
+19:33:02.926: CPU Speed: 4100.000MHz
+19:33:02.926: Physical Cores: 4, Logical Cores: 4
+19:33:02.927: Physical Memory: 16000MB Total, 7184MB Free
+19:33:02.927: Kernel Version: Linux 4.15.0-58-generic
+19:33:02.927: Distribution: "Ubuntu" "18.04"
+19:33:02.939: Portable mode: false
+19:33:02.956: OBS 0.0.1 (linux)
+19:33:02.956: ---------------------------------
+19:33:02.988: ---------------------------------
+19:33:02.988: audio settings reset:
+19:33:02.988: 	samples per sec: 44100
+19:33:02.988: 	speakers:        2
+19:33:02.996: ---------------------------------
+19:33:02.996: Initializing OpenGL...
+19:33:03.044: OpenGL version: 3.2.0 NVIDIA 430.34
+19:33:03.082: ---------------------------------
+19:33:03.082: video settings reset:
+19:33:03.082: 	base resolution:   1920x1080
+19:33:03.082: 	output resolution: 1920x1080
+19:33:03.082: 	downscale filter:  Bicubic
+19:33:03.082: 	fps:               60/1
+19:33:03.082: 	format:            NV12
+19:33:03.083: Audio monitoring device:
+19:33:03.083: 	name: Default
+19:33:03.083: 	id: default
+19:33:03.083: ---------------------------------
+19:33:03.093: No blackmagic support
+19:33:03.136: NVENC supported
+19:33:03.147: VLC found, VLC video source enabled
+19:33:03.147: ---------------------------------
+19:33:03.147:   Loaded Modules:
+19:33:03.147:     vlc-video.so
+19:33:03.147:     text-freetype2.so
+19:33:03.147:     rtmp-services.so
+19:33:03.147:     obs-x264.so
+19:33:03.147:     obs-transitions.so
+19:33:03.147:     obs-outputs.so
+19:33:03.147:     obs-filters.so
+19:33:03.147:     obs-ffmpeg.so
+19:33:03.147:     linux-v4l2.so
+19:33:03.147:     linux-pulseaudio.so
+19:33:03.147:     linux-jack.so
+19:33:03.147:     linux-decklink.so
+19:33:03.147:     linux-capture.so
+19:33:03.147:     linux-alsa.so
+19:33:03.147:     image-source.so
+19:33:03.147:     frontend-tools.so
+19:33:03.147: ---------------------------------
+19:33:03.147: ==== Startup complete ===============================================
+19:33:03.149: All scene data cleared
+19:33:03.149: ------------------------------------------------
+19:33:03.152: pulse-input: Server name: 'pulseaudio 12.2-2'
+19:33:03.153: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+19:33:03.153: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+19:33:03.153: pulse-input: Server name: 'pulseaudio 12.2-2'
+19:33:03.153: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+19:33:03.153: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+19:33:03.155: xshm-input: Geometry 1280x1024 @ 1920,56
+19:33:03.157: Switched to scene 'Scene'
+19:33:03.158: ------------------------------------------------
+19:33:03.158: Loaded scenes:
+19:33:03.158: - scene 'Scene':
+19:33:03.158:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+19:33:03.158:     - source: 'Screen Capture (XSHM)' (xshm_input)
+19:33:03.158:     - source: 'intellij' (xcomposite_input)
+19:33:03.158: ------------------------------------------------
+19:33:03.704: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds
+19:33:03.936: [rtmp-services plugin] Update file 'services.json' (version 111) rejected
+19:33:03.936: [rtmp-services plugin] Successfully updated package (version 111)
+19:33:18.012: adding 23 milliseconds of audio buffering, total audio buffering is now 69 milliseconds
+19:33:51.527: adding 46 milliseconds of audio buffering, total audio buffering is now 116 milliseconds
+19:34:01.015: adding 23 milliseconds of audio buffering, total audio buffering is now 139 milliseconds
+19:35:44.748: Settings changed (stream 1)
+19:35:44.749: ------------------------------------------------
+19:35:58.785: Settings changed (outputs)
+19:35:58.785: ------------------------------------------------
+19:36:09.961: xcompcap: [window-capture: 'intellij'] update settings:
+19:36:09.961: 	title: Desktop
+19:36:09.961: 	class: desktop_window
+19:36:09.962: glCopyImageSubData failed, glGetError returned 0x502
+19:36:09.962: device_copy_texture (GL) failed
+19:36:09.979: glCopyImageSubData failed, glGetError returned 0x502
+19:36:09.979: device_copy_texture (GL) failed
+19:36:09.985: glCopyImageSubData failed, glGetError returned 0x502
+19:36:09.985: device_copy_texture (GL) failed
+19:36:10.000: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.000: device_copy_texture (GL) failed
+19:36:10.017: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.017: device_copy_texture (GL) failed
+19:36:10.033: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.033: device_copy_texture (GL) failed
+19:36:10.050: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.050: device_copy_texture (GL) failed
+19:36:10.066: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.067: device_copy_texture (GL) failed
+19:36:10.083: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.083: device_copy_texture (GL) failed
+19:36:10.100: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.100: device_copy_texture (GL) failed
+19:36:10.117: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.117: device_copy_texture (GL) failed
+19:36:10.133: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.133: device_copy_texture (GL) failed
+19:36:10.150: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.150: device_copy_texture (GL) failed
+19:36:10.167: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.167: device_copy_texture (GL) failed
+19:36:10.183: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.183: device_copy_texture (GL) failed
+19:36:10.200: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.200: device_copy_texture (GL) failed
+19:36:10.217: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.217: device_copy_texture (GL) failed
+19:36:10.233: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.233: device_copy_texture (GL) failed
+19:36:10.250: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.250: device_copy_texture (GL) failed
+19:36:10.267: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.267: device_copy_texture (GL) failed
+19:36:10.283: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.283: device_copy_texture (GL) failed
+19:36:10.300: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.300: device_copy_texture (GL) failed
+19:36:10.317: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.317: device_copy_texture (GL) failed
+19:36:10.333: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.333: device_copy_texture (GL) failed
+19:36:10.350: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.350: device_copy_texture (GL) failed
+19:36:10.367: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.367: device_copy_texture (GL) failed
+19:36:10.383: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.383: device_copy_texture (GL) failed
+19:36:10.400: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.400: device_copy_texture (GL) failed
+19:36:10.417: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.417: device_copy_texture (GL) failed
+19:36:10.433: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.433: device_copy_texture (GL) failed
+19:36:10.450: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.450: device_copy_texture (GL) failed
+19:36:10.467: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.467: device_copy_texture (GL) failed
+19:36:10.483: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.483: device_copy_texture (GL) failed
+19:36:10.500: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.500: device_copy_texture (GL) failed
+19:36:10.517: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.517: device_copy_texture (GL) failed
+19:36:10.533: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.533: device_copy_texture (GL) failed
+19:36:10.550: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.550: device_copy_texture (GL) failed
+19:36:10.567: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.567: device_copy_texture (GL) failed
+19:36:10.583: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.583: device_copy_texture (GL) failed
+19:36:10.600: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.600: device_copy_texture (GL) failed
+19:36:10.617: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.617: device_copy_texture (GL) failed
+19:36:10.633: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.633: device_copy_texture (GL) failed
+19:36:10.650: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.650: device_copy_texture (GL) failed
+19:36:10.667: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.667: device_copy_texture (GL) failed
+19:36:10.683: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.683: device_copy_texture (GL) failed
+19:36:10.700: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.700: device_copy_texture (GL) failed
+19:36:10.717: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.717: device_copy_texture (GL) failed
+19:36:10.733: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.733: device_copy_texture (GL) failed
+19:36:10.750: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.750: device_copy_texture (GL) failed
+19:36:10.767: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.767: device_copy_texture (GL) failed
+19:36:10.784: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.784: device_copy_texture (GL) failed
+19:36:10.800: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.800: device_copy_texture (GL) failed
+19:36:10.817: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.817: device_copy_texture (GL) failed
+19:36:10.833: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.833: device_copy_texture (GL) failed
+19:36:10.850: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.850: device_copy_texture (GL) failed
+19:36:10.867: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.867: device_copy_texture (GL) failed
+19:36:10.883: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.883: device_copy_texture (GL) failed
+19:36:10.900: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.900: device_copy_texture (GL) failed
+19:36:10.917: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.917: device_copy_texture (GL) failed
+19:36:10.933: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.933: device_copy_texture (GL) failed
+19:36:10.950: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.950: device_copy_texture (GL) failed
+19:36:10.967: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.967: device_copy_texture (GL) failed
+19:36:10.983: glCopyImageSubData failed, glGetError returned 0x502
+19:36:10.983: device_copy_texture (GL) failed
+19:36:11.000: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.000: device_copy_texture (GL) failed
+19:36:11.017: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.017: device_copy_texture (GL) failed
+19:36:11.033: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.033: device_copy_texture (GL) failed
+19:36:11.050: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.050: device_copy_texture (GL) failed
+19:36:11.067: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.067: device_copy_texture (GL) failed
+19:36:11.083: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.083: device_copy_texture (GL) failed
+19:36:11.100: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.100: device_copy_texture (GL) failed
+19:36:11.117: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.117: device_copy_texture (GL) failed
+19:36:11.133: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.133: device_copy_texture (GL) failed
+19:36:11.150: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.150: device_copy_texture (GL) failed
+19:36:11.167: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.167: device_copy_texture (GL) failed
+19:36:11.183: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.183: device_copy_texture (GL) failed
+19:36:11.200: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.200: device_copy_texture (GL) failed
+19:36:11.221: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.221: device_copy_texture (GL) failed
+19:36:11.233: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.233: device_copy_texture (GL) failed
+19:36:11.250: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.250: device_copy_texture (GL) failed
+19:36:11.267: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.267: device_copy_texture (GL) failed
+19:36:11.283: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.283: device_copy_texture (GL) failed
+19:36:11.300: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.300: device_copy_texture (GL) failed
+19:36:11.317: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.317: device_copy_texture (GL) failed
+19:36:11.333: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.333: device_copy_texture (GL) failed
+19:36:11.350: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.350: device_copy_texture (GL) failed
+19:36:11.367: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.367: device_copy_texture (GL) failed
+19:36:11.383: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.383: device_copy_texture (GL) failed
+19:36:11.400: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.400: device_copy_texture (GL) failed
+19:36:11.417: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.417: device_copy_texture (GL) failed
+19:36:11.433: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.433: device_copy_texture (GL) failed
+19:36:11.450: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.450: device_copy_texture (GL) failed
+19:36:11.467: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.467: device_copy_texture (GL) failed
+19:36:11.483: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.483: device_copy_texture (GL) failed
+19:36:11.500: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.500: device_copy_texture (GL) failed
+19:36:11.517: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.517: device_copy_texture (GL) failed
+19:36:11.534: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.534: device_copy_texture (GL) failed
+19:36:11.552: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.552: device_copy_texture (GL) failed
+19:36:11.567: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.567: device_copy_texture (GL) failed
+19:36:11.584: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.584: device_copy_texture (GL) failed
+19:36:11.600: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.600: device_copy_texture (GL) failed
+19:36:11.617: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.617: device_copy_texture (GL) failed
+19:36:11.633: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.633: device_copy_texture (GL) failed
+19:36:11.650: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.650: device_copy_texture (GL) failed
+19:36:11.667: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.667: device_copy_texture (GL) failed
+19:36:11.683: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.683: device_copy_texture (GL) failed
+19:36:11.700: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.700: device_copy_texture (GL) failed
+19:36:11.717: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.717: device_copy_texture (GL) failed
+19:36:11.733: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.733: device_copy_texture (GL) failed
+19:36:11.750: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.750: device_copy_texture (GL) failed
+19:36:11.767: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.767: device_copy_texture (GL) failed
+19:36:11.784: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.784: device_copy_texture (GL) failed
+19:36:11.801: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.801: device_copy_texture (GL) failed
+19:36:11.817: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.817: device_copy_texture (GL) failed
+19:36:11.834: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.834: device_copy_texture (GL) failed
+19:36:11.850: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.850: device_copy_texture (GL) failed
+19:36:11.867: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.867: device_copy_texture (GL) failed
+19:36:11.884: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.884: device_copy_texture (GL) failed
+19:36:11.900: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.900: device_copy_texture (GL) failed
+19:36:11.917: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.917: device_copy_texture (GL) failed
+19:36:11.934: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.934: device_copy_texture (GL) failed
+19:36:11.950: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.950: device_copy_texture (GL) failed
+19:36:11.967: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.967: device_copy_texture (GL) failed
+19:36:11.984: glCopyImageSubData failed, glGetError returned 0x502
+19:36:11.984: device_copy_texture (GL) failed
+19:36:12.000: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.000: device_copy_texture (GL) failed
+19:36:12.017: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.017: device_copy_texture (GL) failed
+19:36:12.034: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.034: device_copy_texture (GL) failed
+19:36:12.050: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.050: device_copy_texture (GL) failed
+19:36:12.067: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.067: device_copy_texture (GL) failed
+19:36:12.084: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.084: device_copy_texture (GL) failed
+19:36:12.101: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.101: device_copy_texture (GL) failed
+19:36:12.117: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.117: device_copy_texture (GL) failed
+19:36:12.134: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.134: device_copy_texture (GL) failed
+19:36:12.151: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.151: device_copy_texture (GL) failed
+19:36:12.167: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.167: device_copy_texture (GL) failed
+19:36:12.183: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.184: device_copy_texture (GL) failed
+19:36:12.200: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.200: device_copy_texture (GL) failed
+19:36:12.217: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.217: device_copy_texture (GL) failed
+19:36:12.234: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.234: device_copy_texture (GL) failed
+19:36:12.251: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.251: device_copy_texture (GL) failed
+19:36:12.267: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.267: device_copy_texture (GL) failed
+19:36:12.284: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.284: device_copy_texture (GL) failed
+19:36:12.300: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.300: device_copy_texture (GL) failed
+19:36:12.317: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.317: device_copy_texture (GL) failed
+19:36:12.334: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.334: device_copy_texture (GL) failed
+19:36:12.350: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.350: device_copy_texture (GL) failed
+19:36:12.367: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.367: device_copy_texture (GL) failed
+19:36:12.384: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.384: device_copy_texture (GL) failed
+19:36:12.400: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.400: device_copy_texture (GL) failed
+19:36:12.417: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.417: device_copy_texture (GL) failed
+19:36:12.434: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.434: device_copy_texture (GL) failed
+19:36:12.450: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.450: device_copy_texture (GL) failed
+19:36:12.467: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.467: device_copy_texture (GL) failed
+19:36:12.484: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.484: device_copy_texture (GL) failed
+19:36:12.501: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.501: device_copy_texture (GL) failed
+19:36:12.517: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.517: device_copy_texture (GL) failed
+19:36:12.534: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.534: device_copy_texture (GL) failed
+19:36:12.550: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.550: device_copy_texture (GL) failed
+19:36:12.567: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.567: device_copy_texture (GL) failed
+19:36:12.584: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.584: device_copy_texture (GL) failed
+19:36:12.600: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.600: device_copy_texture (GL) failed
+19:36:12.617: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.617: device_copy_texture (GL) failed
+19:36:12.633: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.634: device_copy_texture (GL) failed
+19:36:12.650: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.650: device_copy_texture (GL) failed
+19:36:12.667: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.667: device_copy_texture (GL) failed
+19:36:12.684: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.684: device_copy_texture (GL) failed
+19:36:12.700: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.700: device_copy_texture (GL) failed
+19:36:12.717: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.717: device_copy_texture (GL) failed
+19:36:12.734: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.734: device_copy_texture (GL) failed
+19:36:12.751: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.752: device_copy_texture (GL) failed
+19:36:12.767: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.767: device_copy_texture (GL) failed
+19:36:12.784: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.784: device_copy_texture (GL) failed
+19:36:12.800: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.800: device_copy_texture (GL) failed
+19:36:12.817: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.817: device_copy_texture (GL) failed
+19:36:12.834: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.834: device_copy_texture (GL) failed
+19:36:12.850: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.850: device_copy_texture (GL) failed
+19:36:12.867: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.867: device_copy_texture (GL) failed
+19:36:12.884: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.884: device_copy_texture (GL) failed
+19:36:12.900: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.900: device_copy_texture (GL) failed
+19:36:12.917: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.917: device_copy_texture (GL) failed
+19:36:12.934: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.934: device_copy_texture (GL) failed
+19:36:12.950: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.950: device_copy_texture (GL) failed
+19:36:12.967: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.967: device_copy_texture (GL) failed
+19:36:12.984: glCopyImageSubData failed, glGetError returned 0x502
+19:36:12.984: device_copy_texture (GL) failed
+19:36:13.000: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.000: device_copy_texture (GL) failed
+19:36:13.017: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.017: device_copy_texture (GL) failed
+19:36:13.034: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.034: device_copy_texture (GL) failed
+19:36:13.050: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.050: device_copy_texture (GL) failed
+19:36:13.067: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.067: device_copy_texture (GL) failed
+19:36:13.084: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.084: device_copy_texture (GL) failed
+19:36:13.100: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.100: device_copy_texture (GL) failed
+19:36:13.117: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.117: device_copy_texture (GL) failed
+19:36:13.134: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.134: device_copy_texture (GL) failed
+19:36:13.150: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.150: device_copy_texture (GL) failed
+19:36:13.167: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.167: device_copy_texture (GL) failed
+19:36:13.184: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.184: device_copy_texture (GL) failed
+19:36:13.203: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.203: device_copy_texture (GL) failed
+19:36:13.217: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.217: device_copy_texture (GL) failed
+19:36:13.234: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.234: device_copy_texture (GL) failed
+19:36:13.250: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.250: device_copy_texture (GL) failed
+19:36:13.267: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.267: device_copy_texture (GL) failed
+19:36:13.284: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.284: device_copy_texture (GL) failed
+19:36:13.300: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.300: device_copy_texture (GL) failed
+19:36:13.317: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.317: device_copy_texture (GL) failed
+19:36:13.334: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.334: device_copy_texture (GL) failed
+19:36:13.350: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.350: device_copy_texture (GL) failed
+19:36:13.367: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.367: device_copy_texture (GL) failed
+19:36:13.384: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.384: device_copy_texture (GL) failed
+19:36:13.400: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.400: device_copy_texture (GL) failed
+19:36:13.417: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.417: device_copy_texture (GL) failed
+19:36:13.434: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.434: device_copy_texture (GL) failed
+19:36:13.451: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.451: device_copy_texture (GL) failed
+19:36:13.467: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.467: device_copy_texture (GL) failed
+19:36:13.484: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.484: device_copy_texture (GL) failed
+19:36:13.500: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.500: device_copy_texture (GL) failed
+19:36:13.517: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.517: device_copy_texture (GL) failed
+19:36:13.533: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.533: device_copy_texture (GL) failed
+19:36:13.550: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.550: device_copy_texture (GL) failed
+19:36:13.567: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.567: device_copy_texture (GL) failed
+19:36:13.583: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.583: device_copy_texture (GL) failed
+19:36:13.600: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.600: device_copy_texture (GL) failed
+19:36:13.617: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.617: device_copy_texture (GL) failed
+19:36:13.633: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.633: device_copy_texture (GL) failed
+19:36:13.650: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.650: device_copy_texture (GL) failed
+19:36:13.667: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.667: device_copy_texture (GL) failed
+19:36:13.684: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.684: device_copy_texture (GL) failed
+19:36:13.700: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.700: device_copy_texture (GL) failed
+19:36:13.717: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.717: device_copy_texture (GL) failed
+19:36:13.734: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.734: device_copy_texture (GL) failed
+19:36:13.750: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.750: device_copy_texture (GL) failed
+19:36:13.767: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.767: device_copy_texture (GL) failed
+19:36:13.784: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.784: device_copy_texture (GL) failed
+19:36:13.800: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.800: device_copy_texture (GL) failed
+19:36:13.817: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.817: device_copy_texture (GL) failed
+19:36:13.834: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.834: device_copy_texture (GL) failed
+19:36:13.850: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.850: device_copy_texture (GL) failed
+19:36:13.867: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.867: device_copy_texture (GL) failed
+19:36:13.884: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.884: device_copy_texture (GL) failed
+19:36:13.900: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.900: device_copy_texture (GL) failed
+19:36:13.917: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.917: device_copy_texture (GL) failed
+19:36:13.933: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.933: device_copy_texture (GL) failed
+19:36:13.950: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.950: device_copy_texture (GL) failed
+19:36:13.967: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.967: device_copy_texture (GL) failed
+19:36:13.983: glCopyImageSubData failed, glGetError returned 0x502
+19:36:13.983: device_copy_texture (GL) failed
+19:36:14.000: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.000: device_copy_texture (GL) failed
+19:36:14.017: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.017: device_copy_texture (GL) failed
+19:36:14.033: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.033: device_copy_texture (GL) failed
+19:36:14.050: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.050: device_copy_texture (GL) failed
+19:36:14.067: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.067: device_copy_texture (GL) failed
+19:36:14.083: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.083: device_copy_texture (GL) failed
+19:36:14.100: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.100: device_copy_texture (GL) failed
+19:36:14.117: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.117: device_copy_texture (GL) failed
+19:36:14.133: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.133: device_copy_texture (GL) failed
+19:36:14.150: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.150: device_copy_texture (GL) failed
+19:36:14.167: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.167: device_copy_texture (GL) failed
+19:36:14.183: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.183: device_copy_texture (GL) failed
+19:36:14.200: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.200: device_copy_texture (GL) failed
+19:36:14.217: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.217: device_copy_texture (GL) failed
+19:36:14.233: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.233: device_copy_texture (GL) failed
+19:36:14.250: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.250: device_copy_texture (GL) failed
+19:36:14.267: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.267: device_copy_texture (GL) failed
+19:36:14.283: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.283: device_copy_texture (GL) failed
+19:36:14.300: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.300: device_copy_texture (GL) failed
+19:36:14.317: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.317: device_copy_texture (GL) failed
+19:36:14.333: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.333: device_copy_texture (GL) failed
+19:36:14.352: glCopyImageSubData failed, glGetError returned 0x502
+19:36:14.352: device_copy_texture (GL) failed
+19:36:14.401: xcompcap: [window-capture: 'intellij'] update settings:
+19:36:14.401: 	title: pvpgym [~/git/pvpgym] - .../api/src/main/java/net/pvpgym/api/game/session/impl/AbstractGame.java [api]
+19:36:14.401: 	class: jetbrains-idea-ce
+19:36:51.415: xshm-input: Geometry 1280x1024 @ 1920,56
+19:36:54.455: xshm-input: Geometry 1280x1024 @ 1920,56
+19:37:12.221: xshm-input: Geometry 1920x1080 @ 0,0
+19:37:12.227: User added source 'left monitor' (xshm_input) to scene 'Scene'
+19:37:35.234: ---------------------------------
+19:37:35.234: [x264 encoder: 'streaming_h264'] preset: ultrafast
+19:37:35.248: [x264 encoder: 'streaming_h264'] settings:
+19:37:35.248: 	rate_control: CBR
+19:37:35.248: 	bitrate:      2500
+19:37:35.248: 	buffer size:  2500
+19:37:35.248: 	crf:          0
+19:37:35.248: 	fps_num:      60
+19:37:35.248: 	fps_den:      1
+19:37:35.248: 	width:        1920
+19:37:35.248: 	height:       1080
+19:37:35.248: 	keyint:       120
+19:37:35.248: 
+19:37:35.249: [x264 encoder: 'streaming_h264'] custom settings: scenecut=0
+19:37:35.264: ---------------------------------
+19:37:35.266: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+19:37:35.266: 
+19:37:35.269: [rtmp stream: 'adv_stream'] Connecting to RTMP URL rtmp://live-ber.twitch.tv/app...
+19:38:00.327: RTMPSockBuf_Fill, remote host closed connection
+19:38:00.327: [rtmp stream: 'adv_stream'] Connection to rtmp://live-ber.twitch.tv/app failed: -3
+19:38:00.327: ==== Streaming Stop ================================================
+19:43:18.894: Settings changed (stream 1)
+19:43:18.894: ------------------------------------------------
+19:43:21.366: ---------------------------------
+19:43:21.366: [x264 encoder: 'streaming_h264'] settings:
+19:43:21.366: 	rate_control: CBR
+19:43:21.366: 	bitrate:      2500
+19:43:21.366: 	buffer size:  2500
+19:43:21.366: 	crf:          0
+19:43:21.366: 	fps_num:      60
+19:43:21.366: 	fps_den:      1
+19:43:21.366: 	width:        1920
+19:43:21.366: 	height:       1080
+19:43:21.366: 	keyint:       120
+19:43:21.366: 
+19:43:21.366: [x264 encoder: 'streaming_h264'] custom settings: scenecut=0
+19:43:21.370: [rtmp stream: 'adv_stream'] Connecting to RTMP URL rtmp://live-ber.twitch.tv/app...
+19:43:22.522: [rtmp stream: 'adv_stream'] Connection to rtmp://live-ber.twitch.tv/app successful
+19:43:22.530: ==== Streaming Start ===============================================
+19:45:57.921: [rtmp stream: 'adv_stream'] User stopped the stream
+19:45:57.921: Output 'adv_stream': stopping
+19:45:57.921: Output 'adv_stream': Total frames output: 9314
+19:45:57.921: Output 'adv_stream': Total drawn frames: 9390 (9393 attempted)
+19:45:57.921: Output 'adv_stream': Number of lagged frames due to rendering lag/stalls: 3 (0,0%)
+19:45:57.924: ==== Streaming Stop ================================================
+19:46:38.054: User added scene 'Scene intellij'
+19:46:38.063: User switched to scene 'Scene intellij'
+19:46:51.280: User added source 'intellij' (xcomposite_input) to scene 'Scene intellij'
+19:46:53.632: User switched to scene 'Scene'
+19:46:55.705: User switched to scene 'Scene intellij'
+19:46:56.461: User switched to scene 'Scene'
+19:47:00.364: User switched to scene 'Scene intellij'
+19:47:01.078: User switched to scene 'Scene'
+19:47:04.155: User switched to scene 'Scene intellij'
+19:47:04.599: User switched to scene 'Scene'
+19:47:33.708: User switched to scene 'Scene intellij'
+19:47:34.464: User switched to scene 'Scene'
+19:47:36.467: User switched to scene 'Scene intellij'
+19:47:37.315: User switched to scene 'Scene'
+19:47:38.368: User switched to scene 'Scene intellij'
+19:47:38.849: User switched to scene 'Scene'
+19:47:39.733: User switched to scene 'Scene intellij'
+19:47:52.477: User switched to scene 'Scene'
+19:48:20.583: Settings changed (stream 1)
+19:48:20.583: ------------------------------------------------
+19:48:24.198: ---------------------------------
+19:48:24.198: [x264 encoder: 'streaming_h264'] preset: ultrafast
+19:48:24.199: [x264 encoder: 'streaming_h264'] settings:
+19:48:24.199: 	rate_control: CBR
+19:48:24.199: 	bitrate:      2500
+19:48:24.199: 	buffer size:  2500
+19:48:24.199: 	crf:          0
+19:48:24.199: 	fps_num:      60
+19:48:24.199: 	fps_den:      1
+19:48:24.199: 	width:        1920
+19:48:24.199: 	height:       1080
+19:48:24.199: 	keyint:       120
+19:48:24.199: 
+19:48:24.199: [x264 encoder: 'streaming_h264'] custom settings: scenecut=0
+19:48:24.215: ---------------------------------
+19:48:24.215: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+19:48:24.215: 
+19:48:24.217: [rtmp stream: 'adv_stream'] Connecting to RTMP URL rtmp://live-ber.twitch.tv/app...
+19:48:25.785: [rtmp stream: 'adv_stream'] Connection to rtmp://live-ber.twitch.tv/app successful
+19:48:25.789: ==== Streaming Start ===============================================
+19:48:31.083: User switched to scene 'Scene intellij'
+19:49:20.798: ---------------------------------
+19:49:20.798: [x264 encoder: 'streaming_h264'] settings:
+19:49:20.798: 	rate_control: CBR
+19:49:20.798: 	bitrate:      3000
+19:49:20.798: 	buffer size:  3000
+19:49:20.798: 	crf:          0
+19:49:20.798: 	fps_num:      60
+19:49:20.798: 	fps_den:      1
+19:49:20.798: 	width:        1920
+19:49:20.798: 	height:       1080
+19:49:20.798: 	keyint:       120
+19:49:20.798: 
+19:49:20.798: [x264 encoder: 'streaming_h264'] custom settings: scenecut=0
+19:49:20.802: Settings changed (outputs)
+19:49:20.803: ------------------------------------------------
+19:50:20.315: User switched to scene 'Scene'
+19:50:20.760: User switched to scene 'Scene intellij'
+19:53:05.827: pulse-input: Stopped recording from 'default'
+19:53:05.827: pulse-input: Got 72142 packets with 53038672 frames
+19:53:05.827: pulse-input: Server name: 'pulseaudio 12.2-2'
+19:53:05.827: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+19:53:05.827: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+19:53:06.399: adding 487 milliseconds of audio buffering, total audio buffering is now 626 milliseconds
+19:58:39.738: User added source 'intellij2' (xcomposite_input) to scene 'Scene intellij'
+19:58:39.739: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.739: device_copy_texture (GL) failed
+19:58:39.766: xcompcap: [window-capture: 'intellij2'] update settings:
+19:58:39.766: 	title: Desktop
+19:58:39.766: 	class: desktop_window
+19:58:39.766: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.766: device_copy_texture (GL) failed
+19:58:39.769: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.769: device_copy_texture (GL) failed
+19:58:39.785: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.785: device_copy_texture (GL) failed
+19:58:39.800: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.800: device_copy_texture (GL) failed
+19:58:39.816: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.816: device_copy_texture (GL) failed
+19:58:39.833: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.833: device_copy_texture (GL) failed
+19:58:39.850: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.850: device_copy_texture (GL) failed
+19:58:39.867: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.867: device_copy_texture (GL) failed
+19:58:39.884: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.884: device_copy_texture (GL) failed
+19:58:39.900: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.900: device_copy_texture (GL) failed
+19:58:39.917: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.917: device_copy_texture (GL) failed
+19:58:39.933: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.933: device_copy_texture (GL) failed
+19:58:39.950: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.950: device_copy_texture (GL) failed
+19:58:39.967: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.967: device_copy_texture (GL) failed
+19:58:39.983: glCopyImageSubData failed, glGetError returned 0x502
+19:58:39.983: device_copy_texture (GL) failed
+19:58:40.000: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.000: device_copy_texture (GL) failed
+19:58:40.017: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.017: device_copy_texture (GL) failed
+19:58:40.034: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.034: device_copy_texture (GL) failed
+19:58:40.050: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.050: device_copy_texture (GL) failed
+19:58:40.067: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.067: device_copy_texture (GL) failed
+19:58:40.083: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.083: device_copy_texture (GL) failed
+19:58:40.100: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.100: device_copy_texture (GL) failed
+19:58:40.117: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.117: device_copy_texture (GL) failed
+19:58:40.133: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.133: device_copy_texture (GL) failed
+19:58:40.150: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.150: device_copy_texture (GL) failed
+19:58:40.167: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.167: device_copy_texture (GL) failed
+19:58:40.183: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.183: device_copy_texture (GL) failed
+19:58:40.200: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.200: device_copy_texture (GL) failed
+19:58:40.217: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.217: device_copy_texture (GL) failed
+19:58:40.233: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.233: device_copy_texture (GL) failed
+19:58:40.250: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.250: device_copy_texture (GL) failed
+19:58:40.267: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.267: device_copy_texture (GL) failed
+19:58:40.283: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.283: device_copy_texture (GL) failed
+19:58:40.300: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.300: device_copy_texture (GL) failed
+19:58:40.317: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.317: device_copy_texture (GL) failed
+19:58:40.333: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.333: device_copy_texture (GL) failed
+19:58:40.350: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.350: device_copy_texture (GL) failed
+19:58:40.367: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.367: device_copy_texture (GL) failed
+19:58:40.383: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.383: device_copy_texture (GL) failed
+19:58:40.400: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.400: device_copy_texture (GL) failed
+19:58:40.417: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.417: device_copy_texture (GL) failed
+19:58:40.433: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.433: device_copy_texture (GL) failed
+19:58:40.450: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.450: device_copy_texture (GL) failed
+19:58:40.467: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.467: device_copy_texture (GL) failed
+19:58:40.483: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.483: device_copy_texture (GL) failed
+19:58:40.500: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.500: device_copy_texture (GL) failed
+19:58:40.517: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.517: device_copy_texture (GL) failed
+19:58:40.533: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.533: device_copy_texture (GL) failed
+19:58:40.550: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.550: device_copy_texture (GL) failed
+19:58:40.567: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.567: device_copy_texture (GL) failed
+19:58:40.583: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.583: device_copy_texture (GL) failed
+19:58:40.600: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.600: device_copy_texture (GL) failed
+19:58:40.617: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.617: device_copy_texture (GL) failed
+19:58:40.633: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.634: device_copy_texture (GL) failed
+19:58:40.650: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.650: device_copy_texture (GL) failed
+19:58:40.667: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.667: device_copy_texture (GL) failed
+19:58:40.683: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.683: device_copy_texture (GL) failed
+19:58:40.700: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.700: device_copy_texture (GL) failed
+19:58:40.717: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.717: device_copy_texture (GL) failed
+19:58:40.733: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.733: device_copy_texture (GL) failed
+19:58:40.750: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.750: device_copy_texture (GL) failed
+19:58:40.767: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.767: device_copy_texture (GL) failed
+19:58:40.783: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.783: device_copy_texture (GL) failed
+19:58:40.800: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.800: device_copy_texture (GL) failed
+19:58:40.817: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.817: device_copy_texture (GL) failed
+19:58:40.833: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.833: device_copy_texture (GL) failed
+19:58:40.851: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.851: device_copy_texture (GL) failed
+19:58:40.867: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.867: device_copy_texture (GL) failed
+19:58:40.884: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.884: device_copy_texture (GL) failed
+19:58:40.901: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.901: device_copy_texture (GL) failed
+19:58:40.917: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.917: device_copy_texture (GL) failed
+19:58:40.934: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.934: device_copy_texture (GL) failed
+19:58:40.950: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.950: device_copy_texture (GL) failed
+19:58:40.967: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.967: device_copy_texture (GL) failed
+19:58:40.983: glCopyImageSubData failed, glGetError returned 0x502
+19:58:40.983: device_copy_texture (GL) failed
+19:58:41.000: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.000: device_copy_texture (GL) failed
+19:58:41.017: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.017: device_copy_texture (GL) failed
+19:58:41.033: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.033: device_copy_texture (GL) failed
+19:58:41.050: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.050: device_copy_texture (GL) failed
+19:58:41.067: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.067: device_copy_texture (GL) failed
+19:58:41.083: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.083: device_copy_texture (GL) failed
+19:58:41.100: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.104: device_copy_texture (GL) failed
+19:58:41.117: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.117: device_copy_texture (GL) failed
+19:58:41.134: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.134: device_copy_texture (GL) failed
+19:58:41.150: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.150: device_copy_texture (GL) failed
+19:58:41.167: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.167: device_copy_texture (GL) failed
+19:58:41.184: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.184: device_copy_texture (GL) failed
+19:58:41.200: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.200: device_copy_texture (GL) failed
+19:58:41.217: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.217: device_copy_texture (GL) failed
+19:58:41.233: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.234: device_copy_texture (GL) failed
+19:58:41.250: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.250: device_copy_texture (GL) failed
+19:58:41.267: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.267: device_copy_texture (GL) failed
+19:58:41.283: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.283: device_copy_texture (GL) failed
+19:58:41.300: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.300: device_copy_texture (GL) failed
+19:58:41.317: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.317: device_copy_texture (GL) failed
+19:58:41.333: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.333: device_copy_texture (GL) failed
+19:58:41.350: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.350: device_copy_texture (GL) failed
+19:58:41.370: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.370: device_copy_texture (GL) failed
+19:58:41.383: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.383: device_copy_texture (GL) failed
+19:58:41.400: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.400: device_copy_texture (GL) failed
+19:58:41.416: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.417: device_copy_texture (GL) failed
+19:58:41.433: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.433: device_copy_texture (GL) failed
+19:58:41.450: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.450: device_copy_texture (GL) failed
+19:58:41.466: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.467: device_copy_texture (GL) failed
+19:58:41.483: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.483: device_copy_texture (GL) failed
+19:58:41.500: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.500: device_copy_texture (GL) failed
+19:58:41.517: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.517: device_copy_texture (GL) failed
+19:58:41.533: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.533: device_copy_texture (GL) failed
+19:58:41.550: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.550: device_copy_texture (GL) failed
+19:58:41.567: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.567: device_copy_texture (GL) failed
+19:58:41.583: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.583: device_copy_texture (GL) failed
+19:58:41.600: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.600: device_copy_texture (GL) failed
+19:58:41.617: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.617: device_copy_texture (GL) failed
+19:58:41.633: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.633: device_copy_texture (GL) failed
+19:58:41.650: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.650: device_copy_texture (GL) failed
+19:58:41.667: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.667: device_copy_texture (GL) failed
+19:58:41.683: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.683: device_copy_texture (GL) failed
+19:58:41.700: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.700: device_copy_texture (GL) failed
+19:58:41.717: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.717: device_copy_texture (GL) failed
+19:58:41.734: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.734: device_copy_texture (GL) failed
+19:58:41.754: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.754: device_copy_texture (GL) failed
+19:58:41.767: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.767: device_copy_texture (GL) failed
+19:58:41.784: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.784: device_copy_texture (GL) failed
+19:58:41.800: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.800: device_copy_texture (GL) failed
+19:58:41.817: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.817: device_copy_texture (GL) failed
+19:58:41.833: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.833: device_copy_texture (GL) failed
+19:58:41.850: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.850: device_copy_texture (GL) failed
+19:58:41.867: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.867: device_copy_texture (GL) failed
+19:58:41.883: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.883: device_copy_texture (GL) failed
+19:58:41.900: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.900: device_copy_texture (GL) failed
+19:58:41.917: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.917: device_copy_texture (GL) failed
+19:58:41.934: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.934: device_copy_texture (GL) failed
+19:58:41.950: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.950: device_copy_texture (GL) failed
+19:58:41.967: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.967: device_copy_texture (GL) failed
+19:58:41.984: glCopyImageSubData failed, glGetError returned 0x502
+19:58:41.984: device_copy_texture (GL) failed
+19:58:42.000: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.000: device_copy_texture (GL) failed
+19:58:42.017: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.017: device_copy_texture (GL) failed
+19:58:42.033: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.034: device_copy_texture (GL) failed
+19:58:42.050: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.050: device_copy_texture (GL) failed
+19:58:42.067: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.067: device_copy_texture (GL) failed
+19:58:42.083: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.083: device_copy_texture (GL) failed
+19:58:42.100: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.100: device_copy_texture (GL) failed
+19:58:42.117: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.117: device_copy_texture (GL) failed
+19:58:42.133: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.133: device_copy_texture (GL) failed
+19:58:42.150: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.150: device_copy_texture (GL) failed
+19:58:42.167: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.167: device_copy_texture (GL) failed
+19:58:42.183: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.183: device_copy_texture (GL) failed
+19:58:42.200: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.200: device_copy_texture (GL) failed
+19:58:42.217: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.217: device_copy_texture (GL) failed
+19:58:42.234: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.234: device_copy_texture (GL) failed
+19:58:42.250: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.250: device_copy_texture (GL) failed
+19:58:42.267: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.267: device_copy_texture (GL) failed
+19:58:42.284: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.284: device_copy_texture (GL) failed
+19:58:42.301: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.301: device_copy_texture (GL) failed
+19:58:42.317: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.317: device_copy_texture (GL) failed
+19:58:42.333: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.333: device_copy_texture (GL) failed
+19:58:42.350: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.350: device_copy_texture (GL) failed
+19:58:42.367: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.367: device_copy_texture (GL) failed
+19:58:42.383: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.383: device_copy_texture (GL) failed
+19:58:42.400: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.400: device_copy_texture (GL) failed
+19:58:42.417: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.417: device_copy_texture (GL) failed
+19:58:42.434: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.434: device_copy_texture (GL) failed
+19:58:42.450: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.450: device_copy_texture (GL) failed
+19:58:42.467: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.467: device_copy_texture (GL) failed
+19:58:42.484: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.484: device_copy_texture (GL) failed
+19:58:42.500: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.501: device_copy_texture (GL) failed
+19:58:42.517: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.517: device_copy_texture (GL) failed
+19:58:42.534: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.534: device_copy_texture (GL) failed
+19:58:42.550: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.550: device_copy_texture (GL) failed
+19:58:42.567: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.567: device_copy_texture (GL) failed
+19:58:42.583: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.583: device_copy_texture (GL) failed
+19:58:42.600: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.600: device_copy_texture (GL) failed
+19:58:42.617: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.617: device_copy_texture (GL) failed
+19:58:42.633: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.633: device_copy_texture (GL) failed
+19:58:42.650: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.650: device_copy_texture (GL) failed
+19:58:42.667: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.667: device_copy_texture (GL) failed
+19:58:42.683: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.683: device_copy_texture (GL) failed
+19:58:42.700: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.700: device_copy_texture (GL) failed
+19:58:42.717: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.717: device_copy_texture (GL) failed
+19:58:42.734: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.734: device_copy_texture (GL) failed
+19:58:42.754: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.754: device_copy_texture (GL) failed
+19:58:42.767: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.767: device_copy_texture (GL) failed
+19:58:42.783: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.783: device_copy_texture (GL) failed
+19:58:42.800: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.800: device_copy_texture (GL) failed
+19:58:42.816: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.816: device_copy_texture (GL) failed
+19:58:42.834: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.834: device_copy_texture (GL) failed
+19:58:42.850: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.850: device_copy_texture (GL) failed
+19:58:42.867: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.867: device_copy_texture (GL) failed
+19:58:42.883: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.884: device_copy_texture (GL) failed
+19:58:42.900: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.900: device_copy_texture (GL) failed
+19:58:42.917: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.917: device_copy_texture (GL) failed
+19:58:42.933: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.933: device_copy_texture (GL) failed
+19:58:42.950: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.950: device_copy_texture (GL) failed
+19:58:42.967: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.967: device_copy_texture (GL) failed
+19:58:42.984: glCopyImageSubData failed, glGetError returned 0x502
+19:58:42.984: device_copy_texture (GL) failed
+19:58:43.000: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.000: device_copy_texture (GL) failed
+19:58:43.017: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.017: device_copy_texture (GL) failed
+19:58:43.033: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.033: device_copy_texture (GL) failed
+19:58:43.050: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.050: device_copy_texture (GL) failed
+19:58:43.067: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.067: device_copy_texture (GL) failed
+19:58:43.083: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.083: device_copy_texture (GL) failed
+19:58:43.100: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.100: device_copy_texture (GL) failed
+19:58:43.117: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.117: device_copy_texture (GL) failed
+19:58:43.133: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.134: device_copy_texture (GL) failed
+19:58:43.150: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.150: device_copy_texture (GL) failed
+19:58:43.167: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.167: device_copy_texture (GL) failed
+19:58:43.183: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.183: device_copy_texture (GL) failed
+19:58:43.200: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.200: device_copy_texture (GL) failed
+19:58:43.217: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.217: device_copy_texture (GL) failed
+19:58:43.233: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.233: device_copy_texture (GL) failed
+19:58:43.250: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.250: device_copy_texture (GL) failed
+19:58:43.267: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.267: device_copy_texture (GL) failed
+19:58:43.283: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.283: device_copy_texture (GL) failed
+19:58:43.300: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.300: device_copy_texture (GL) failed
+19:58:43.317: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.317: device_copy_texture (GL) failed
+19:58:43.334: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.334: device_copy_texture (GL) failed
+19:58:43.350: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.350: device_copy_texture (GL) failed
+19:58:43.366: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.366: device_copy_texture (GL) failed
+19:58:43.383: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.383: device_copy_texture (GL) failed
+19:58:43.401: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.401: device_copy_texture (GL) failed
+19:58:43.417: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.417: device_copy_texture (GL) failed
+19:58:43.434: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.434: device_copy_texture (GL) failed
+19:58:43.450: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.450: device_copy_texture (GL) failed
+19:58:43.467: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.467: device_copy_texture (GL) failed
+19:58:43.483: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.483: device_copy_texture (GL) failed
+19:58:43.500: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.500: device_copy_texture (GL) failed
+19:58:43.517: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.517: device_copy_texture (GL) failed
+19:58:43.533: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.533: device_copy_texture (GL) failed
+19:58:43.550: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.550: device_copy_texture (GL) failed
+19:58:43.567: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.567: device_copy_texture (GL) failed
+19:58:43.583: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.583: device_copy_texture (GL) failed
+19:58:43.600: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.600: device_copy_texture (GL) failed
+19:58:43.617: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.617: device_copy_texture (GL) failed
+19:58:43.633: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.634: device_copy_texture (GL) failed
+19:58:43.650: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.650: device_copy_texture (GL) failed
+19:58:43.667: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.667: device_copy_texture (GL) failed
+19:58:43.683: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.683: device_copy_texture (GL) failed
+19:58:43.700: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.700: device_copy_texture (GL) failed
+19:58:43.717: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.717: device_copy_texture (GL) failed
+19:58:43.733: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.733: device_copy_texture (GL) failed
+19:58:43.750: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.750: device_copy_texture (GL) failed
+19:58:43.767: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.767: device_copy_texture (GL) failed
+19:58:43.783: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.783: device_copy_texture (GL) failed
+19:58:43.800: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.800: device_copy_texture (GL) failed
+19:58:43.817: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.817: device_copy_texture (GL) failed
+19:58:43.833: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.833: device_copy_texture (GL) failed
+19:58:43.850: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.850: device_copy_texture (GL) failed
+19:58:43.867: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.867: device_copy_texture (GL) failed
+19:58:43.883: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.883: device_copy_texture (GL) failed
+19:58:43.900: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.900: device_copy_texture (GL) failed
+19:58:43.917: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.917: device_copy_texture (GL) failed
+19:58:43.933: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.933: device_copy_texture (GL) failed
+19:58:43.950: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.950: device_copy_texture (GL) failed
+19:58:43.967: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.967: device_copy_texture (GL) failed
+19:58:43.983: glCopyImageSubData failed, glGetError returned 0x502
+19:58:43.983: device_copy_texture (GL) failed
+19:58:44.000: glCopyImageSubData failed, glGetError returned 0x502
+19:58:44.000: device_copy_texture (GL) failed
+19:58:44.017: glCopyImageSubData failed, glGetError returned 0x502
+19:58:44.017: device_copy_texture (GL) failed
+19:58:44.041: xcompcap: [window-capture: 'intellij2'] update settings:
+19:58:44.041: 	title: util-parent [~/git/util] - .../util/src/main/java/net/pvpgym/util/GsonUtil.java [util (1)]
+19:58:44.041: 	class: jetbrains-idea-ce
+20:05:27.062: pulse-input: Stopped recording from 'default'
+20:05:27.062: pulse-input: Got 39751 packets with 32688480 frames
+20:05:27.062: pulse-input: Server name: 'pulseaudio 12.2-2'
+20:05:27.063: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+20:05:27.063: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+20:09:57.952: User switched to scene 'Scene'
+20:10:34.101: User switched to scene 'Scene intellij'
+20:22:48.834: User switched to scene 'Scene'
+20:23:37.557: User switched to scene 'Scene intellij'
+20:36:32.486: [rtmp stream: 'adv_stream'] User stopped the stream
+20:36:32.486: Output 'adv_stream': stopping
+20:36:32.486: Output 'adv_stream': Total frames output: 173161
+20:36:32.486: Output 'adv_stream': Total drawn frames: 173011 (173296 attempted)
+20:36:32.487: Output 'adv_stream': Number of lagged frames due to rendering lag/stalls: 285 (0,2%)
+20:36:32.489: ==== Streaming Stop ================================================
+21:54:35.860: xcompcap: [window-capture: 'intellij'] update settings:
+21:54:35.860: 	title: util-parent [~/git/util] - .../util/src/main/java/net/pvpgym/util/GsonUtil.java [util (1)]
+21:54:35.860: 	class: jetbrains-idea-ce
+21:56:04.736: ==== Shutting down ==================================================
+21:56:04.737: Switched to scene '(null)'
+21:56:04.768: X Error: BadValue (integer parameter out of range for operation)
+21:56:04.772: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+21:56:04.772: pulse-input: Got 2301881 packets with 378579176 frames
+21:56:04.773: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+21:56:04.773: pulse-input: Got 355927 packets with 292725816 frames
+21:56:04.773: All scene data cleared
+21:56:04.773: ------------------------------------------------
+21:56:04.806: Freeing OBS context data
+21:56:04.842: == Profiler Results =============================
+21:56:04.842: run_program_init: 395,34 ms
+21:56:04.842:  ┣OBSApp::AppInit: 1,491 ms
+21:56:04.842:  ┃ ┗OBSApp::InitLocale: 1,024 ms
+21:56:04.842:  ┗OBSApp::OBSInit: 324,393 ms
+21:56:04.842:    ┣obs_startup: 31,411 ms
+21:56:04.842:    ┗OBSBasic::OBSInit: 221,21 ms
+21:56:04.842:      ┣OBSBasic::InitBasicConfig: 0,067 ms
+21:56:04.842:      ┣OBSBasic::ResetAudio: 0,094 ms
+21:56:04.842:      ┣OBSBasic::ResetVideo: 94,668 ms
+21:56:04.842:      ┣OBSBasic::InitOBSCallbacks: 0,002 ms
+21:56:04.842:      ┣OBSBasic::InitHotkeys: 0,023 ms
+21:56:04.842:      ┣obs_load_all_modules: 63,923 ms
+21:56:04.842:      ┃ ┣obs_init_module(frontend-tools.so): 2,698 ms
+21:56:04.842:      ┃ ┣obs_init_module(image-source.so): 0,003 ms
+21:56:04.842:      ┃ ┣obs_init_module(linux-alsa.so): 0,001 ms
+21:56:04.842:      ┃ ┣obs_init_module(linux-capture.so): 0,321 ms
+21:56:04.842:      ┃ ┣obs_init_module(linux-decklink.so): 0,09 ms
+21:56:04.842:      ┃ ┣obs_init_module(linux-jack.so): 0,001 ms
+21:56:04.842:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0,003 ms
+21:56:04.842:      ┃ ┣obs_init_module(linux-v4l2.so): 0,001 ms
+21:56:04.842:      ┃ ┣obs_init_module(obs-ffmpeg.so): 3,103 ms
+21:56:04.842:      ┃ ┃ ┗nvenc_check: 3,066 ms
+21:56:04.842:      ┃ ┣obs_init_module(obs-filters.so): 0,005 ms
+21:56:04.842:      ┃ ┣obs_init_module(obs-outputs.so): 0,002 ms
+21:56:04.842:      ┃ ┣obs_init_module(obs-transitions.so): 0,004 ms
+21:56:04.842:      ┃ ┣obs_init_module(obs-x264.so): 0,001 ms
+21:56:04.842:      ┃ ┣obs_init_module(rtmp-services.so): 0,609 ms
+21:56:04.842:      ┃ ┣obs_init_module(text-freetype2.so): 0,01 ms
+21:56:04.842:      ┃ ┗obs_init_module(vlc-video.so): 1,718 ms
+21:56:04.842:      ┣OBSBasic::ResetOutputs: 0,302 ms
+21:56:04.842:      ┣OBSBasic::CreateHotkeys: 0,013 ms
+21:56:04.842:      ┣OBSBasic::InitService: 1,083 ms
+21:56:04.842:      ┣OBSBasic::InitPrimitives: 0,201 ms
+21:56:04.842:      ┗OBSBasic::Load: 9,121 ms
+21:56:04.842: obs_hotkey_thread(25 ms): min=0,033 ms, median=0,457 ms, max=82,001 ms, 99th percentile=4,682 ms, 99,9523% below 25 ms
+21:56:04.842: audio_thread(Audio): min=0 ms, median=0,184 ms, max=79,524 ms, 99th percentile=4,932 ms
+21:56:04.842:  ┗receive_audio: min=0,003 ms, median=1,134 ms, max=59,857 ms, 99th percentile=7,466 ms, 0,363293 calls per parent call
+21:56:04.842:    ┣buffer_audio: min=0 ms, median=0,001 ms, max=0,897 ms, 99th percentile=0,002 ms
+21:56:04.842:    ┗do_encode: min=0,012 ms, median=1,131 ms, max=59,851 ms, 99th percentile=7,454 ms
+21:56:04.842:      ┗encode(Track1): min=0,012 ms, median=1,116 ms, max=59,834 ms, 99th percentile=7,359 ms
+21:56:04.842: obs_graphics_thread(16,6667 ms): min=0,698 ms, median=4,326 ms, max=110,32 ms, 99th percentile=13,402 ms, 99,4846% below 16,667 ms
+21:56:04.842:  ┣tick_sources: min=0 ms, median=1,005 ms, max=94,995 ms, 99th percentile=5,751 ms
+21:56:04.842:  ┣output_frame: min=0,379 ms, median=1,752 ms, max=57,662 ms, 99th percentile=4,384 ms
+21:56:04.842:  ┃ ┣gs_context(video->graphics): min=0,154 ms, median=0,958 ms, max=57,393 ms, 99th percentile=2,747 ms
+21:56:04.842:  ┃ ┃ ┣render_video: min=0,106 ms, median=0,565 ms, max=37,384 ms, 99th percentile=1,392 ms
+21:56:04.842:  ┃ ┃ ┃ ┣render_main_texture: min=0,029 ms, median=0,234 ms, max=33,211 ms, 99th percentile=0,65 ms
+21:56:04.842:  ┃ ┃ ┃ ┣render_output_texture: min=0,001 ms, median=0,085 ms, max=26,301 ms, 99th percentile=0,213 ms
+21:56:04.842:  ┃ ┃ ┃ ┣render_convert_texture: min=0,001 ms, median=0,118 ms, max=22,025 ms, 99th percentile=0,296 ms
+21:56:04.842:  ┃ ┃ ┃ ┗stage_output_texture: min=0 ms, median=0,075 ms, max=28,359 ms, 99th percentile=0,45 ms
+21:56:04.842:  ┃ ┃ ┣download_frame: min=0 ms, median=0,005 ms, max=12,903 ms, 99th percentile=0,007 ms
+21:56:04.842:  ┃ ┃ ┗gs_flush: min=0,003 ms, median=0,013 ms, max=21,363 ms, 99th percentile=0,031 ms
+21:56:04.842:  ┃ ┗output_video_data: min=0,216 ms, median=0,77 ms, max=37,972 ms, 99th percentile=1,817 ms
+21:56:04.842:  ┗render_displays: min=0,079 ms, median=1,403 ms, max=98,332 ms, 99th percentile=6,793 ms
+21:56:04.842: video_thread(video): min=0 ms, median=0,001 ms, max=60,284 ms, 99th percentile=2,517 ms
+21:56:04.842:  ┗receive_video: min=0,001 ms, median=1,1 ms, max=60,282 ms, 99th percentile=4,11 ms, 0,355006 calls per parent call
+21:56:04.842:    ┗do_encode: min=0,543 ms, median=1,1 ms, max=60,282 ms, 99th percentile=4,109 ms
+21:56:04.842:      ┗encode(streaming_h264): min=0,536 ms, median=1,065 ms, max=60,269 ms, 99th percentile=3,003 ms
+21:56:04.842: OBSBasic::ResetOutputs: min=0,385 ms, median=0 ms, max=9,412 ms, 99th percentile=9,412 ms
+21:56:04.842: =================================================
+21:56:04.842: == Profiler Time Between Calls ==================
+21:56:04.842: obs_hotkey_thread(25 ms): min=25,069 ms, median=25,565 ms, max=107,161 ms, 41,3484% within ±2% of 25 ms (0% lower, 58,6516% higher)
+21:56:04.842: obs_graphics_thread(16,6667 ms): min=1,013 ms, median=16,667 ms, max=110,325 ms, 96,4645% within ±2% of 16,667 ms (1,78505% lower, 1,75043% higher)
+21:56:04.842: =================================================
+21:56:04.980: Number of memory leaks: 1

@@ -1,0 +1,46 @@
+
+[audacious]
+generic_title_format=${?artist:${artist} - }${title}
+shuffle=TRUE
+
+[audgui]
+about_win=1970,106,582,357
+filebrowser_win=624,281,672,480
+info_win=667,299,609,445
+url_opener_win=2368,458,384,183
+
+[gtkui]
+column_widths=10,275,175,10,175,175,10,100,36,10,275,275,275,10,275
+player_height=773
+player_width=1440
+player_x=343
+player_y=270
+
+[gtkui-layout]
+item0_name=Search Tool
+item0_pos=0,-1,-1,216,681
+item1_name=Playlist Manager
+item1_pos=-1,0,0,284,188
+item_count=2
+
+[search-tool]
+path=/home/gabriel/Music
+
+[skins]
+equalizer_shaded=TRUE
+equalizer_x=3115
+equalizer_y=172
+player_x=2925
+player_y=56
+playlist_font=Latin Modern Mono 9
+playlist_visible=TRUE
+playlist_x=2926
+playlist_y=172
+skin=/usr/share/audacious/Skins/Default
+
+[skins-layout]
+blur_scope=38,38,288,192
+cairo-spectrum=83,83,288,192
+gl-spectrum=38,38,288,192
+playlist-manager=1970,106,288,192
+search-tool=2231,99,288,795

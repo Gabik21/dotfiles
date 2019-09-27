@@ -1,0 +1,14 @@
+[user]
+	email = gabik.fabian@gmail.com
+	name = Gabik21
+	signingkey = A95DB353715365DF
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	unstage = reset HEAD --
+	addnew = add -N .
+        addfile = "!sh -c \"find . -name $1 -exec git add {} \\;\""
+[commit]
+	gpgsign = true

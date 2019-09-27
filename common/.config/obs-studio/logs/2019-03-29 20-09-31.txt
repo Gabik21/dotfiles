@@ -1,0 +1,15 @@
+20:09:32.007: CPU Name: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz
+20:09:32.007: CPU Speed: 4099.976MHz
+20:09:32.007: Physical Cores: 4, Logical Cores: 4
+20:09:32.007: Physical Memory: 16000MB Total, 4285MB Free
+20:09:32.007: Kernel Version: Linux 4.15.0-46-generic
+20:09:32.007: Distribution: "Ubuntu" "18.04"
+20:09:32.008: Portable mode: false
+20:09:32.018: OBS 0.0.1 (linux)
+20:09:32.018: ---------------------------------
+20:09:32.018: ---------------------------------
+20:09:32.018: audio settings reset:
+20:09:32.018: 	samples per sec: 44100
+20:09:32.018: 	speakers:        2
+20:09:32.024: ---------------------------------
+20:09:32.024: Initializing OpenGL...

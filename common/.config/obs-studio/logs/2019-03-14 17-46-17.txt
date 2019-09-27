@@ -1,0 +1,600 @@
+17:46:17.292: CPU Name: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz
+17:46:17.292: CPU Speed: 4100.005MHz
+17:46:17.292: Physical Cores: 4, Logical Cores: 4
+17:46:17.292: Physical Memory: 16000MB Total, 8762MB Free
+17:46:17.292: Kernel Version: Linux 4.15.0-46-generic
+17:46:17.292: Distribution: "Ubuntu" "18.04"
+17:46:17.293: Portable mode: false
+17:46:17.303: OBS 0.0.1 (linux)
+17:46:17.303: ---------------------------------
+17:46:17.304: ---------------------------------
+17:46:17.304: audio settings reset:
+17:46:17.304: 	samples per sec: 44100
+17:46:17.304: 	speakers:        2
+17:46:17.311: ---------------------------------
+17:46:17.311: Initializing OpenGL...
+17:46:17.406: OpenGL version: 3.2.0 NVIDIA 418.43
+17:46:17.424: ---------------------------------
+17:46:17.424: video settings reset:
+17:46:17.424: 	base resolution:   1920x1080
+17:46:17.424: 	output resolution: 1280x720
+17:46:17.424: 	downscale filter:  Bicubic
+17:46:17.424: 	fps:               60/1
+17:46:17.424: 	format:            NV12
+17:46:17.425: Audio monitoring device:
+17:46:17.425: 	name: Default
+17:46:17.425: 	id: default
+17:46:17.425: ---------------------------------
+17:46:17.438: No blackmagic support
+17:46:17.464: NVENC supported
+17:46:17.474: VLC found, VLC video source enabled
+17:46:17.474: ---------------------------------
+17:46:17.474:   Loaded Modules:
+17:46:17.474:     vlc-video.so
+17:46:17.474:     text-freetype2.so
+17:46:17.474:     rtmp-services.so
+17:46:17.474:     obs-x264.so
+17:46:17.474:     obs-transitions.so
+17:46:17.474:     obs-outputs.so
+17:46:17.474:     obs-filters.so
+17:46:17.474:     obs-ffmpeg.so
+17:46:17.474:     linux-v4l2.so
+17:46:17.474:     linux-pulseaudio.so
+17:46:17.474:     linux-jack.so
+17:46:17.474:     linux-decklink.so
+17:46:17.474:     linux-capture.so
+17:46:17.474:     linux-alsa.so
+17:46:17.474:     image-source.so
+17:46:17.474:     frontend-tools.so
+17:46:17.474: ---------------------------------
+17:46:17.474: ==== Startup complete ===============================================
+17:46:17.478: All scene data cleared
+17:46:17.478: ------------------------------------------------
+17:46:17.480: pulse-input: Server name: 'pulseaudio 11.1'
+17:46:17.480: pulse-input: Audio format: float32le, 32000 Hz, 1 channels
+17:46:17.480: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.echo-cancel.monitor'
+17:46:17.480: pulse-input: Server name: 'pulseaudio 11.1'
+17:46:17.480: pulse-input: Audio format: float32le, 32000 Hz, 1 channels
+17:46:17.480: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo.echo-cancel'
+17:46:17.482: xshm-input: Geometry 1280x1024 @ 1920,56
+17:46:17.529: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:46:17.529: 	title: Doppelte Mehrheit – Wikipedia - Chromium
+17:46:17.529: 	class: chromium-browser
+17:46:17.532: Switched to scene 'Scene'
+17:46:17.532: ------------------------------------------------
+17:46:17.532: Loaded scenes:
+17:46:17.532: - scene 'Scene':
+17:46:17.532:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+17:46:17.532:     - source: 'Screen Capture (XSHM)' (xshm_input)
+17:46:17.532:     - source: 'intellij' (xcomposite_input)
+17:46:17.532: ------------------------------------------------
+17:46:18.019: adding 23 milliseconds of audio buffering, total audio buffering is now 23 milliseconds
+17:46:23.580: ---------------------------------
+17:46:23.580: [NVENC encoder: 'recording_h264'] settings:
+17:46:23.580: 	rate_control: CBR
+17:46:23.580: 	bitrate:      15000
+17:46:23.580: 	cqp:          0
+17:46:23.580: 	keyint:       250
+17:46:23.580: 	preset:       default
+17:46:23.580: 	profile:      main
+17:46:23.580: 	level:        auto
+17:46:23.580: 	width:        1280
+17:46:23.580: 	height:       720
+17:46:23.580: 	2-pass:       true
+17:46:23.580: 	b-frames:     2
+17:46:23.580: 	GPU:          0
+17:46:23.580: 
+17:46:23.734: ---------------------------------
+17:46:23.734: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+17:46:23.734: 
+17:46:23.741: ==== Recording Start ===============================================
+17:46:23.741: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 17-46-23.flv'...
+17:46:23.886: adding 23 milliseconds of audio buffering, total audio buffering is now 46 milliseconds
+17:46:26.823: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 17-46-23.flv' stopped
+17:46:26.823: Output 'adv_file_output': stopping
+17:46:26.823: Output 'adv_file_output': Total frames output: 171
+17:46:26.823: Output 'adv_file_output': Total drawn frames: 185
+17:46:26.823: ==== Recording Stop ================================================
+17:47:07.802: User added filter 'Noise Suppression' (noise_suppress_filter) to source 'Mic/Aux'
+17:47:23.509: ---------------------------------
+17:47:23.510: [NVENC encoder: 'recording_h264'] settings:
+17:47:23.510: 	rate_control: CBR
+17:47:23.510: 	bitrate:      15000
+17:47:23.510: 	cqp:          0
+17:47:23.510: 	keyint:       250
+17:47:23.510: 	preset:       default
+17:47:23.510: 	profile:      main
+17:47:23.510: 	level:        auto
+17:47:23.510: 	width:        1280
+17:47:23.510: 	height:       720
+17:47:23.510: 	2-pass:       true
+17:47:23.510: 	b-frames:     2
+17:47:23.510: 	GPU:          0
+17:47:23.510: 
+17:47:23.595: ---------------------------------
+17:47:23.595: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+17:47:23.595: 
+17:47:23.600: ==== Recording Start ===============================================
+17:47:23.600: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 17-47-23.flv'...
+17:47:26.785: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 17-47-23.flv' stopped
+17:47:26.785: Output 'adv_file_output': stopping
+17:47:26.785: Output 'adv_file_output': Total frames output: 179
+17:47:26.786: Output 'adv_file_output': Total drawn frames: 190
+17:47:26.786: ==== Recording Stop ================================================
+17:48:10.511: ---------------------------------
+17:48:10.512: [NVENC encoder: 'recording_h264'] settings:
+17:48:10.512: 	rate_control: CBR
+17:48:10.512: 	bitrate:      15000
+17:48:10.512: 	cqp:          0
+17:48:10.512: 	keyint:       250
+17:48:10.512: 	preset:       default
+17:48:10.512: 	profile:      main
+17:48:10.512: 	level:        auto
+17:48:10.512: 	width:        1280
+17:48:10.512: 	height:       720
+17:48:10.512: 	2-pass:       true
+17:48:10.512: 	b-frames:     2
+17:48:10.512: 	GPU:          0
+17:48:10.512: 
+17:48:10.600: ---------------------------------
+17:48:10.601: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+17:48:10.601: 
+17:48:10.606: ==== Recording Start ===============================================
+17:48:10.606: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 17-48-10.flv'...
+17:49:26.385: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 17-48-10.flv' stopped
+17:49:26.385: Output 'adv_file_output': stopping
+17:49:26.385: Output 'adv_file_output': Total frames output: 4535
+17:49:26.385: Output 'adv_file_output': Total drawn frames: 4546 (4547 attempted)
+17:49:26.385: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0,0%)
+17:49:26.391: ==== Recording Stop ================================================
+17:51:34.190: ---------------------------------
+17:51:34.191: [NVENC encoder: 'recording_h264'] settings:
+17:51:34.191: 	rate_control: CBR
+17:51:34.191: 	bitrate:      15000
+17:51:34.191: 	cqp:          0
+17:51:34.191: 	keyint:       250
+17:51:34.191: 	preset:       default
+17:51:34.191: 	profile:      main
+17:51:34.191: 	level:        auto
+17:51:34.191: 	width:        1280
+17:51:34.191: 	height:       720
+17:51:34.191: 	2-pass:       true
+17:51:34.191: 	b-frames:     2
+17:51:34.191: 	GPU:          0
+17:51:34.191: 
+17:51:34.289: ---------------------------------
+17:51:34.289: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+17:51:34.289: 
+17:51:34.294: ==== Recording Start ===============================================
+17:51:34.294: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 17-51-34.flv'...
+17:52:17.681: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 17-51-34.flv' stopped
+17:52:17.681: Output 'adv_file_output': stopping
+17:52:17.681: Output 'adv_file_output': Total frames output: 2591
+17:52:17.681: Output 'adv_file_output': Total drawn frames: 2603
+17:52:17.682: ==== Recording Stop ================================================
+17:52:34.816: ---------------------------------
+17:52:34.816: [NVENC encoder: 'recording_h264'] settings:
+17:52:34.816: 	rate_control: CBR
+17:52:34.816: 	bitrate:      15000
+17:52:34.816: 	cqp:          0
+17:52:34.816: 	keyint:       250
+17:52:34.816: 	preset:       default
+17:52:34.816: 	profile:      main
+17:52:34.816: 	level:        auto
+17:52:34.816: 	width:        1280
+17:52:34.816: 	height:       720
+17:52:34.816: 	2-pass:       true
+17:52:34.816: 	b-frames:     2
+17:52:34.816: 	GPU:          0
+17:52:34.816: 
+17:52:34.908: ---------------------------------
+17:52:34.908: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+17:52:34.908: 
+17:52:34.913: ==== Recording Start ===============================================
+17:52:34.913: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 17-52-34.flv'...
+17:53:32.894: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 17-52-34.flv' stopped
+17:53:32.894: Output 'adv_file_output': stopping
+17:53:32.894: Output 'adv_file_output': Total frames output: 3466
+17:53:32.894: Output 'adv_file_output': Total drawn frames: 3479
+17:53:32.897: ==== Recording Stop ================================================
+17:53:56.895: ---------------------------------
+17:53:56.895: [NVENC encoder: 'recording_h264'] settings:
+17:53:56.895: 	rate_control: CBR
+17:53:56.895: 	bitrate:      15000
+17:53:56.895: 	cqp:          0
+17:53:56.895: 	keyint:       250
+17:53:56.895: 	preset:       default
+17:53:56.895: 	profile:      main
+17:53:56.895: 	level:        auto
+17:53:56.895: 	width:        1280
+17:53:56.895: 	height:       720
+17:53:56.895: 	2-pass:       true
+17:53:56.895: 	b-frames:     2
+17:53:56.895: 	GPU:          0
+17:53:56.895: 
+17:53:56.983: ---------------------------------
+17:53:56.983: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+17:53:56.983: 
+17:53:56.989: ==== Recording Start ===============================================
+17:53:56.989: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 17-53-56.flv'...
+17:54:22.167: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 17-53-56.flv' stopped
+17:54:22.167: Output 'adv_file_output': stopping
+17:54:22.167: Output 'adv_file_output': Total frames output: 1497
+17:54:22.167: Output 'adv_file_output': Total drawn frames: 1511
+17:54:22.167: ==== Recording Stop ================================================
+17:54:22.733: ---------------------------------
+17:54:22.734: [NVENC encoder: 'recording_h264'] settings:
+17:54:22.734: 	rate_control: CBR
+17:54:22.734: 	bitrate:      15000
+17:54:22.734: 	cqp:          0
+17:54:22.734: 	keyint:       250
+17:54:22.734: 	preset:       default
+17:54:22.734: 	profile:      main
+17:54:22.734: 	level:        auto
+17:54:22.734: 	width:        1280
+17:54:22.734: 	height:       720
+17:54:22.734: 	2-pass:       true
+17:54:22.734: 	b-frames:     2
+17:54:22.734: 	GPU:          0
+17:54:22.734: 
+17:54:22.866: ---------------------------------
+17:54:22.866: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+17:54:22.866: 
+17:54:22.873: ==== Recording Start ===============================================
+17:54:22.873: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 17-54-22.flv'...
+17:54:25.006: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 17-54-22.flv' stopped
+17:54:25.006: Output 'adv_file_output': stopping
+17:54:25.006: Output 'adv_file_output': Total frames output: 116
+17:54:25.006: Output 'adv_file_output': Total drawn frames: 128
+17:54:25.007: ==== Recording Stop ================================================
+18:31:45.666: ---------------------------------
+18:31:45.667: [NVENC encoder: 'recording_h264'] settings:
+18:31:45.667: 	rate_control: CBR
+18:31:45.667: 	bitrate:      15000
+18:31:45.667: 	cqp:          0
+18:31:45.667: 	keyint:       250
+18:31:45.667: 	preset:       default
+18:31:45.667: 	profile:      main
+18:31:45.667: 	level:        auto
+18:31:45.667: 	width:        1280
+18:31:45.667: 	height:       720
+18:31:45.667: 	2-pass:       true
+18:31:45.667: 	b-frames:     2
+18:31:45.667: 	GPU:          0
+18:31:45.667: 
+18:31:45.761: ---------------------------------
+18:31:45.761: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+18:31:45.761: 
+18:31:45.766: ==== Recording Start ===============================================
+18:31:45.766: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 18-31-45.flv'...
+18:31:52.767: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 18-31-45.flv' stopped
+18:31:52.767: Output 'adv_file_output': stopping
+18:31:52.767: Output 'adv_file_output': Total frames output: 408
+18:31:52.767: Output 'adv_file_output': Total drawn frames: 420
+18:31:52.768: ==== Recording Stop ================================================
+18:31:53.526: ---------------------------------
+18:31:53.527: [NVENC encoder: 'recording_h264'] settings:
+18:31:53.527: 	rate_control: CBR
+18:31:53.527: 	bitrate:      15000
+18:31:53.527: 	cqp:          0
+18:31:53.527: 	keyint:       250
+18:31:53.527: 	preset:       default
+18:31:53.527: 	profile:      main
+18:31:53.527: 	level:        auto
+18:31:53.527: 	width:        1280
+18:31:53.527: 	height:       720
+18:31:53.527: 	2-pass:       true
+18:31:53.527: 	b-frames:     2
+18:31:53.527: 	GPU:          0
+18:31:53.527: 
+18:31:53.636: ---------------------------------
+18:31:53.636: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+18:31:53.636: 
+18:31:53.641: ==== Recording Start ===============================================
+18:31:53.641: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 18-31-53.flv'...
+18:33:54.197: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 18-31-53.flv' stopped
+18:33:54.197: Output 'adv_file_output': stopping
+18:33:54.197: Output 'adv_file_output': Total frames output: 7222
+18:33:54.197: Output 'adv_file_output': Total drawn frames: 7234
+18:33:54.198: ==== Recording Stop ================================================
+18:33:54.656: ---------------------------------
+18:33:54.657: [NVENC encoder: 'recording_h264'] settings:
+18:33:54.657: 	rate_control: CBR
+18:33:54.657: 	bitrate:      15000
+18:33:54.657: 	cqp:          0
+18:33:54.657: 	keyint:       250
+18:33:54.657: 	preset:       default
+18:33:54.657: 	profile:      main
+18:33:54.657: 	level:        auto
+18:33:54.657: 	width:        1280
+18:33:54.657: 	height:       720
+18:33:54.657: 	2-pass:       true
+18:33:54.657: 	b-frames:     2
+18:33:54.657: 	GPU:          0
+18:33:54.657: 
+18:33:54.756: ---------------------------------
+18:33:54.756: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+18:33:54.756: 
+18:33:54.761: ==== Recording Start ===============================================
+18:33:54.761: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 18-33-54.flv'...
+18:33:55.950: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 18-33-54.flv' stopped
+18:33:55.950: Output 'adv_file_output': stopping
+18:33:55.950: Output 'adv_file_output': Total frames output: 60
+18:33:55.950: Output 'adv_file_output': Total drawn frames: 71
+18:33:55.950: ==== Recording Stop ================================================
+18:34:02.732: ---------------------------------
+18:34:02.732: [NVENC encoder: 'recording_h264'] settings:
+18:34:02.732: 	rate_control: CBR
+18:34:02.732: 	bitrate:      15000
+18:34:02.732: 	cqp:          0
+18:34:02.732: 	keyint:       250
+18:34:02.732: 	preset:       default
+18:34:02.732: 	profile:      main
+18:34:02.732: 	level:        auto
+18:34:02.732: 	width:        1280
+18:34:02.732: 	height:       720
+18:34:02.732: 	2-pass:       true
+18:34:02.732: 	b-frames:     2
+18:34:02.732: 	GPU:          0
+18:34:02.732: 
+18:34:02.875: ---------------------------------
+18:34:02.875: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+18:34:02.875: 
+18:34:02.880: ==== Recording Start ===============================================
+18:34:02.880: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 18-34-02.flv'...
+18:34:20.283: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 18-34-02.flv' stopped
+18:34:20.283: Output 'adv_file_output': stopping
+18:34:20.283: Output 'adv_file_output': Total frames output: 1032
+18:34:20.283: Output 'adv_file_output': Total drawn frames: 1044
+18:34:20.286: ==== Recording Stop ================================================
+18:34:20.754: ---------------------------------
+18:34:20.754: [NVENC encoder: 'recording_h264'] settings:
+18:34:20.754: 	rate_control: CBR
+18:34:20.754: 	bitrate:      15000
+18:34:20.754: 	cqp:          0
+18:34:20.754: 	keyint:       250
+18:34:20.754: 	preset:       default
+18:34:20.754: 	profile:      main
+18:34:20.754: 	level:        auto
+18:34:20.754: 	width:        1280
+18:34:20.754: 	height:       720
+18:34:20.754: 	2-pass:       true
+18:34:20.754: 	b-frames:     2
+18:34:20.754: 	GPU:          0
+18:34:20.754: 
+18:34:20.870: ---------------------------------
+18:34:20.870: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+18:34:20.870: 
+18:34:20.876: ==== Recording Start ===============================================
+18:34:20.876: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 18-34-20.flv'...
+18:34:21.800: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 18-34-20.flv' stopped
+18:34:21.800: Output 'adv_file_output': stopping
+18:34:21.800: Output 'adv_file_output': Total frames output: 43
+18:34:21.800: Output 'adv_file_output': Total drawn frames: 55
+18:34:21.801: ==== Recording Stop ================================================
+18:34:25.072: ---------------------------------
+18:34:25.072: [NVENC encoder: 'recording_h264'] settings:
+18:34:25.072: 	rate_control: CBR
+18:34:25.072: 	bitrate:      15000
+18:34:25.072: 	cqp:          0
+18:34:25.072: 	keyint:       250
+18:34:25.072: 	preset:       default
+18:34:25.072: 	profile:      main
+18:34:25.072: 	level:        auto
+18:34:25.072: 	width:        1280
+18:34:25.072: 	height:       720
+18:34:25.072: 	2-pass:       true
+18:34:25.072: 	b-frames:     2
+18:34:25.072: 	GPU:          0
+18:34:25.072: 
+18:34:25.175: ---------------------------------
+18:34:25.175: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+18:34:25.175: 
+18:34:25.180: ==== Recording Start ===============================================
+18:34:25.180: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 18-34-25.flv'...
+18:38:19.033: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 18-34-25.flv' stopped
+18:38:19.033: Output 'adv_file_output': stopping
+18:38:19.033: Output 'adv_file_output': Total frames output: 14020
+18:38:19.033: Output 'adv_file_output': Total drawn frames: 14031
+18:38:19.034: ==== Recording Stop ================================================
+18:38:19.521: ---------------------------------
+18:38:19.521: [NVENC encoder: 'recording_h264'] settings:
+18:38:19.521: 	rate_control: CBR
+18:38:19.521: 	bitrate:      15000
+18:38:19.521: 	cqp:          0
+18:38:19.521: 	keyint:       250
+18:38:19.521: 	preset:       default
+18:38:19.521: 	profile:      main
+18:38:19.521: 	level:        auto
+18:38:19.521: 	width:        1280
+18:38:19.521: 	height:       720
+18:38:19.521: 	2-pass:       true
+18:38:19.521: 	b-frames:     2
+18:38:19.521: 	GPU:          0
+18:38:19.521: 
+18:38:19.618: ---------------------------------
+18:38:19.618: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+18:38:19.618: 
+18:38:19.623: ==== Recording Start ===============================================
+18:38:19.623: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 18-38-19.flv'...
+18:39:04.017: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 18-38-19.flv' stopped
+18:39:04.017: Output 'adv_file_output': stopping
+18:39:04.017: Output 'adv_file_output': Total frames output: 2652
+18:39:04.017: Output 'adv_file_output': Total drawn frames: 2664
+18:39:04.018: ==== Recording Stop ================================================
+18:41:09.801: ---------------------------------
+18:41:09.801: [NVENC encoder: 'recording_h264'] settings:
+18:41:09.801: 	rate_control: CBR
+18:41:09.801: 	bitrate:      15000
+18:41:09.801: 	cqp:          0
+18:41:09.801: 	keyint:       250
+18:41:09.801: 	preset:       default
+18:41:09.801: 	profile:      main
+18:41:09.801: 	level:        auto
+18:41:09.801: 	width:        1280
+18:41:09.801: 	height:       720
+18:41:09.801: 	2-pass:       true
+18:41:09.801: 	b-frames:     2
+18:41:09.801: 	GPU:          0
+18:41:09.801: 
+18:41:09.873: ---------------------------------
+18:41:09.873: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+18:41:09.873: 
+18:41:09.879: ==== Recording Start ===============================================
+18:41:09.879: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 18-41-09.flv'...
+18:45:25.950: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 18-41-09.flv' stopped
+18:45:25.950: Output 'adv_file_output': stopping
+18:45:25.950: Output 'adv_file_output': Total frames output: 15353
+18:45:25.950: Output 'adv_file_output': Total drawn frames: 15364
+18:45:25.953: ==== Recording Stop ================================================
+18:46:55.911: ---------------------------------
+18:46:55.911: [NVENC encoder: 'recording_h264'] settings:
+18:46:55.911: 	rate_control: CBR
+18:46:55.911: 	bitrate:      15000
+18:46:55.911: 	cqp:          0
+18:46:55.911: 	keyint:       250
+18:46:55.911: 	preset:       default
+18:46:55.911: 	profile:      main
+18:46:55.911: 	level:        auto
+18:46:55.911: 	width:        1280
+18:46:55.911: 	height:       720
+18:46:55.911: 	2-pass:       true
+18:46:55.911: 	b-frames:     2
+18:46:55.911: 	GPU:          0
+18:46:55.911: 
+18:46:55.994: ---------------------------------
+18:46:55.994: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+18:46:55.994: 
+18:46:55.999: ==== Recording Start ===============================================
+18:46:55.999: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 18-46-55.flv'...
+18:49:52.652: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 18-46-55.flv' stopped
+18:49:52.652: Output 'adv_file_output': stopping
+18:49:52.652: Output 'adv_file_output': Total frames output: 10586
+18:49:52.652: Output 'adv_file_output': Total drawn frames: 10599
+18:49:52.652: ==== Recording Stop ================================================
+18:50:14.582: ---------------------------------
+18:50:14.582: [NVENC encoder: 'recording_h264'] settings:
+18:50:14.582: 	rate_control: CBR
+18:50:14.582: 	bitrate:      15000
+18:50:14.582: 	cqp:          0
+18:50:14.582: 	keyint:       250
+18:50:14.582: 	preset:       default
+18:50:14.582: 	profile:      main
+18:50:14.582: 	level:        auto
+18:50:14.582: 	width:        1280
+18:50:14.582: 	height:       720
+18:50:14.582: 	2-pass:       true
+18:50:14.582: 	b-frames:     2
+18:50:14.582: 	GPU:          0
+18:50:14.582: 
+18:50:14.677: ---------------------------------
+18:50:14.677: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+18:50:14.677: 
+18:50:14.682: ==== Recording Start ===============================================
+18:50:14.682: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 18-50-14.flv'...
+18:50:24.001: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 18-50-14.flv' stopped
+18:50:24.002: Output 'adv_file_output': stopping
+18:50:24.002: Output 'adv_file_output': Total frames output: 548
+18:50:24.002: Output 'adv_file_output': Total drawn frames: 559
+18:50:24.003: ==== Recording Stop ================================================
+18:50:26.592: ---------------------------------
+18:50:26.592: [NVENC encoder: 'recording_h264'] settings:
+18:50:26.592: 	rate_control: CBR
+18:50:26.592: 	bitrate:      15000
+18:50:26.592: 	cqp:          0
+18:50:26.592: 	keyint:       250
+18:50:26.592: 	preset:       default
+18:50:26.592: 	profile:      main
+18:50:26.592: 	level:        auto
+18:50:26.592: 	width:        1280
+18:50:26.592: 	height:       720
+18:50:26.592: 	2-pass:       true
+18:50:26.592: 	b-frames:     2
+18:50:26.592: 	GPU:          0
+18:50:26.592: 
+18:50:26.714: ---------------------------------
+18:50:26.714: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+18:50:26.714: 
+18:50:26.720: ==== Recording Start ===============================================
+18:50:26.720: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/gabriel/2019-03-14 18-50-26.flv'...
+18:52:21.699: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/gabriel/2019-03-14 18-50-26.flv' stopped
+18:52:21.699: Output 'adv_file_output': stopping
+18:52:21.699: Output 'adv_file_output': Total frames output: 6886
+18:52:21.699: Output 'adv_file_output': Total drawn frames: 6899
+18:52:21.699: ==== Recording Stop ================================================
+19:27:29.323: adding 23 milliseconds of audio buffering, total audio buffering is now 69 milliseconds
+19:30:47.641: ==== Shutting down ==================================================
+19:30:47.648: Switched to scene '(null)'
+19:30:47.673: X Error: BadWindow (invalid Window parameter)
+19:30:47.673: X Error: BadWindow (invalid Window parameter)
+19:30:47.682: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.echo-cancel.monitor'
+19:30:47.682: pulse-input: Got 0 packets with 0 frames
+19:30:47.685: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo.echo-cancel'
+19:30:47.686: pulse-input: Got 627028 packets with 200648960 frames
+19:30:47.687: All scene data cleared
+19:30:47.687: ------------------------------------------------
+19:30:47.736: Freeing OBS context data
+19:30:47.755: == Profiler Results =============================
+19:30:47.755: run_program_init: 417,074 ms
+19:30:47.755:  ┣OBSApp::AppInit: 3,949 ms
+19:30:47.755:  ┃ ┗OBSApp::InitLocale: 1,011 ms
+19:30:47.755:  ┗OBSApp::OBSInit: 338,416 ms
+19:30:47.755:    ┣obs_startup: 18,09 ms
+19:30:47.755:    ┗OBSBasic::OBSInit: 294,69 ms
+19:30:47.755:      ┣OBSBasic::InitBasicConfig: 0,049 ms
+19:30:47.755:      ┣OBSBasic::ResetAudio: 0,107 ms
+19:30:47.755:      ┣OBSBasic::ResetVideo: 121,234 ms
+19:30:47.755:      ┣OBSBasic::InitOBSCallbacks: 0,003 ms
+19:30:47.755:      ┣OBSBasic::InitHotkeys: 0,032 ms
+19:30:47.755:      ┣obs_load_all_modules: 48,837 ms
+19:30:47.755:      ┃ ┣obs_init_module(frontend-tools.so): 2,735 ms
+19:30:47.755:      ┃ ┣obs_init_module(image-source.so): 0,003 ms
+19:30:47.755:      ┃ ┣obs_init_module(linux-alsa.so): 0,002 ms
+19:30:47.755:      ┃ ┣obs_init_module(linux-capture.so): 0,289 ms
+19:30:47.755:      ┃ ┣obs_init_module(linux-decklink.so): 0,137 ms
+19:30:47.755:      ┃ ┣obs_init_module(linux-jack.so): 0,002 ms
+19:30:47.755:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0,004 ms
+19:30:47.756:      ┃ ┣obs_init_module(linux-v4l2.so): 0,001 ms
+19:30:47.756:      ┃ ┣obs_init_module(obs-ffmpeg.so): 1,997 ms
+19:30:47.756:      ┃ ┃ ┗nvenc_check: 1,938 ms
+19:30:47.756:      ┃ ┣obs_init_module(obs-filters.so): 0,007 ms
+19:30:47.756:      ┃ ┣obs_init_module(obs-outputs.so): 0,002 ms
+19:30:47.756:      ┃ ┣obs_init_module(obs-transitions.so): 0,006 ms
+19:30:47.756:      ┃ ┣obs_init_module(obs-x264.so): 0,001 ms
+19:30:47.756:      ┃ ┣obs_init_module(rtmp-services.so): 0,658 ms
+19:30:47.756:      ┃ ┣obs_init_module(text-freetype2.so): 0,01 ms
+19:30:47.756:      ┃ ┗obs_init_module(vlc-video.so): 1,737 ms
+19:30:47.756:      ┣OBSBasic::ResetOutputs: 0,289 ms
+19:30:47.756:      ┣OBSBasic::CreateHotkeys: 0,012 ms
+19:30:47.756:      ┣OBSBasic::InitService: 1,081 ms
+19:30:47.756:      ┣OBSBasic::InitPrimitives: 1,613 ms
+19:30:47.756:      ┗OBSBasic::Load: 54,84 ms
+19:30:47.756: obs_hotkey_thread(25 ms): min=0,038 ms, median=0,474 ms, max=46,754 ms, 99th percentile=2,246 ms, 99,9914% below 25 ms
+19:30:47.756: audio_thread(Audio): min=0 ms, median=0,089 ms, max=60,083 ms, 99th percentile=18,205 ms
+19:30:47.756:  ┗receive_audio: min=0,003 ms, median=2,549 ms, max=36,917 ms, 99th percentile=25,339 ms, 0,197327 calls per parent call
+19:30:47.756:    ┣buffer_audio: min=0 ms, median=0 ms, max=0,66 ms, 99th percentile=0,002 ms
+19:30:47.756:    ┗do_encode: min=0,012 ms, median=2,543 ms, max=36,912 ms, 99th percentile=25,334 ms
+19:30:47.756:      ┗encode(Track1): min=0,012 ms, median=2,514 ms, max=36,884 ms, 99th percentile=25,324 ms
+19:30:47.756: obs_graphics_thread(16,6667 ms): min=0,435 ms, median=2,876 ms, max=56,095 ms, 99th percentile=6,559 ms, 99,9149% below 16,667 ms
+19:30:47.756:  ┣tick_sources: min=0 ms, median=0,01 ms, max=37,84 ms, 99th percentile=0,014 ms
+19:30:47.756:  ┣output_frame: min=0,251 ms, median=1,366 ms, max=49,584 ms, 99th percentile=3,345 ms
+19:30:47.756:  ┃ ┣gs_context(video->graphics): min=0,149 ms, median=1,013 ms, max=49,472 ms, 99th percentile=2,928 ms
+19:30:47.756:  ┃ ┃ ┣render_video: min=0,089 ms, median=0,519 ms, max=41,918 ms, 99th percentile=1,296 ms
+19:30:47.756:  ┃ ┃ ┃ ┣render_main_texture: min=0,02 ms, median=0,13 ms, max=6,952 ms, 99th percentile=0,274 ms
+19:30:47.756:  ┃ ┃ ┃ ┣render_output_texture: min=0,001 ms, median=0,154 ms, max=10,794 ms, 99th percentile=0,315 ms
+19:30:47.756:  ┃ ┃ ┃ ┣render_convert_texture: min=0,001 ms, median=0,121 ms, max=8,788 ms, 99th percentile=0,209 ms
+19:30:47.756:  ┃ ┃ ┃ ┗stage_output_texture: min=0 ms, median=0,071 ms, max=41,756 ms, 99th percentile=0,422 ms
+19:30:47.756:  ┃ ┃ ┣download_frame: min=0 ms, median=0,005 ms, max=1,866 ms, 99th percentile=0,007 ms
+19:30:47.756:  ┃ ┃ ┗gs_flush: min=0,002 ms, median=0,012 ms, max=15,631 ms, 99th percentile=0,025 ms
+19:30:47.756:  ┃ ┗output_video_data: min=0,094 ms, median=0,342 ms, max=10,94 ms, 99th percentile=0,794 ms
+19:30:47.756:  ┗render_displays: min=0,068 ms, median=1,464 ms, max=52,876 ms, 99th percentile=3,882 ms
+19:30:47.756: video_thread(video): min=0 ms, median=0,002 ms, max=21,648 ms, 99th percentile=2,918 ms
+19:30:47.756:  ┗receive_video: min=0 ms, median=2,303 ms, max=21,644 ms, 99th percentile=3,561 ms, 0,190304 calls per parent call
+19:30:47.756:    ┗do_encode: min=0,361 ms, median=2,302 ms, max=21,643 ms, 99th percentile=3,561 ms
+19:30:47.756:      ┗encode(recording_h264): min=0,361 ms, median=2,239 ms, max=14,02 ms, 99th percentile=3,492 ms
+19:30:47.756: =================================================
+19:30:47.756: == Profiler Time Between Calls ==================
+19:30:47.756: obs_hotkey_thread(25 ms): min=25,057 ms, median=25,585 ms, max=71,871 ms, 38,9231% within ±2% of 25 ms (0% lower, 61,0769% higher)
+19:30:47.756: obs_graphics_thread(16,6667 ms): min=0,532 ms, median=16,667 ms, max=56,182 ms, 98,1855% within ±2% of 16,667 ms (0,911783% lower, 0,902745% higher)
+19:30:47.756: =================================================
+19:30:47.873: Number of memory leaks: 0
