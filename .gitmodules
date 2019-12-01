@@ -1,3 +1,0 @@
-[submodule "common/.oh-my-zsh"]
-	path = common/.oh-my-zsh
-	url = https://github.com/Gabik21/dotfiles-oh-my-zsh

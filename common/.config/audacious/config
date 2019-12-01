@@ -1,7 +1,6 @@
 
 [audacious]
 generic_title_format=${?artist:${artist} - }${title}
-shuffle=TRUE
 
 [audgui]
 about_win=1970,106,582,357
@@ -28,13 +27,13 @@ path=/home/gabriel/Music
 
 [skins]
 equalizer_shaded=TRUE
-equalizer_x=3115
-equalizer_y=172
+equalizer_x=1429
+equalizer_y=297
 player_x=2925
 player_y=56
 playlist_font=Latin Modern Mono 9
 playlist_visible=TRUE
-playlist_x=2926
+playlist_x=2925
 playlist_y=172
 skin=/usr/share/audacious/Skins/Default
 
@@ -42,5 +41,5 @@ skin=/usr/share/audacious/Skins/Default
 blur_scope=38,38,288,192
 cairo-spectrum=83,83,288,192
 gl-spectrum=38,38,288,192
-playlist-manager=1970,106,288,192
+playlist-manager=2519,331,288,192
 search-tool=2231,99,288,795

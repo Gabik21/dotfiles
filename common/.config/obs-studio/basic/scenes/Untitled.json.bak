@@ -1,10 +1,12 @@
 {
     "AuxAudioDevice1": {
+        "balance": 0.5,
         "deinterlace_field_order": 0,
         "deinterlace_mode": 0,
         "enabled": true,
         "filters": [
             {
+                "balance": 0.5,
                 "deinterlace_field_order": 0,
                 "deinterlace_mode": 0,
                 "enabled": true,
@@ -48,9 +50,10 @@
             "device_id": "default"
         },
         "sync": 0,
-        "volume": 1.5
+        "volume": 1.0
     },
     "DesktopAudioDevice1": {
+        "balance": 0.5,
         "deinterlace_field_order": 0,
         "deinterlace_mode": 0,
         "enabled": true,
@@ -77,9 +80,10 @@
         "sync": 0,
         "volume": 0.14887697994709015
     },
-    "current_program_scene": "Scene intellij",
-    "current_scene": "Scene intellij",
+    "current_program_scene": "Scene",
+    "current_scene": "Scene",
     "current_transition": "Swipe",
+    "groups": [],
     "modules": {
         "auto-scene-switcher": {
             "active": false,
@@ -97,7 +101,8 @@
             "streamTimerHours": 0,
             "streamTimerMinutes": 0,
             "streamTimerSeconds": 30
-        }
+        },
+        "scripts-tool": []
     },
     "name": "Untitled",
     "preview_locked": false,
@@ -115,134 +120,7 @@
             "name": "Fade"
         }
     ],
-    "saved_multiview_projectors": [
-        {
-            "saved_multiview_projectors": 0
-        },
-        {
-            "saved_multiview_projectors": 0
-        },
-        {
-            "saved_multiview_projectors": 0
-        },
-        {
-            "saved_multiview_projectors": 0
-        },
-        {
-            "saved_multiview_projectors": 0
-        },
-        {
-            "saved_multiview_projectors": 0
-        },
-        {
-            "saved_multiview_projectors": 0
-        },
-        {
-            "saved_multiview_projectors": 0
-        },
-        {
-            "saved_multiview_projectors": 0
-        },
-        {
-            "saved_multiview_projectors": 0
-        }
-    ],
-    "saved_preview_projectors": [
-        {
-            "saved_preview_projectors": 0
-        },
-        {
-            "saved_preview_projectors": 0
-        },
-        {
-            "saved_preview_projectors": 0
-        },
-        {
-            "saved_preview_projectors": 0
-        },
-        {
-            "saved_preview_projectors": 0
-        },
-        {
-            "saved_preview_projectors": 0
-        },
-        {
-            "saved_preview_projectors": 0
-        },
-        {
-            "saved_preview_projectors": 0
-        },
-        {
-            "saved_preview_projectors": 0
-        },
-        {
-            "saved_preview_projectors": 0
-        }
-    ],
-    "saved_projectors": [
-        {
-            "saved_projectors": ""
-        },
-        {
-            "saved_projectors": ""
-        },
-        {
-            "saved_projectors": ""
-        },
-        {
-            "saved_projectors": ""
-        },
-        {
-            "saved_projectors": ""
-        },
-        {
-            "saved_projectors": ""
-        },
-        {
-            "saved_projectors": ""
-        },
-        {
-            "saved_projectors": ""
-        },
-        {
-            "saved_projectors": ""
-        },
-        {
-            "saved_projectors": ""
-        }
-    ],
-    "saved_studio_preview_projectors": [
-        {
-            "saved_studio_preview_projectors": 0
-        },
-        {
-            "saved_studio_preview_projectors": 0
-        },
-        {
-            "saved_studio_preview_projectors": 0
-        },
-        {
-            "saved_studio_preview_projectors": 0
-        },
-        {
-            "saved_studio_preview_projectors": 0
-        },
-        {
-            "saved_studio_preview_projectors": 0
-        },
-        {
-            "saved_studio_preview_projectors": 0
-        },
-        {
-            "saved_studio_preview_projectors": 0
-        },
-        {
-            "saved_studio_preview_projectors": 0
-        },
-        {
-            "saved_studio_preview_projectors": 0
-        }
-    ],
+    "saved_projectors": [],
     "scaling_enabled": false,
     "scaling_level": 0,
     "scaling_off_x": 0.0,
@@ -257,6 +135,7 @@
     ],
     "sources": [
         {
+            "balance": 0.5,
             "deinterlace_field_order": 0,
             "deinterlace_mode": 0,
             "enabled": true,
@@ -279,6 +158,7 @@
             "volume": 1.0
         },
         {
+            "balance": 0.5,
             "deinterlace_field_order": 0,
             "deinterlace_mode": 0,
             "enabled": true,
@@ -301,6 +181,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
+                "custom_size": false,
                 "id_counter": 2,
                 "items": [
                     {
@@ -315,6 +196,7 @@
                         "crop_left": 0,
                         "crop_right": 0,
                         "crop_top": 0,
+                        "group_item_backup": false,
                         "id": 1,
                         "locked": false,
                         "name": "intellij",
@@ -343,6 +225,7 @@
                         "crop_left": 0,
                         "crop_right": 0,
                         "crop_top": 0,
+                        "group_item_backup": false,
                         "id": 2,
                         "locked": false,
                         "name": "intellij2",
@@ -365,6 +248,7 @@
             "volume": 1.0
         },
         {
+            "balance": 0.5,
             "deinterlace_field_order": 0,
             "deinterlace_mode": 0,
             "enabled": true,
@@ -385,6 +269,7 @@
             "volume": 1.0
         },
         {
+            "balance": 0.5,
             "deinterlace_field_order": 0,
             "deinterlace_mode": 0,
             "enabled": true,
@@ -407,6 +292,7 @@
             "volume": 1.0
         },
         {
+            "balance": 0.5,
             "deinterlace_field_order": 0,
             "deinterlace_mode": 0,
             "enabled": true,
@@ -430,6 +316,7 @@
             "volume": 1.0
         },
         {
+            "balance": 0.5,
             "deinterlace_field_order": 0,
             "deinterlace_mode": 0,
             "enabled": true,
@@ -456,6 +343,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
+                "custom_size": false,
                 "id_counter": 6,
                 "items": [
                     {
@@ -470,6 +358,7 @@
                         "crop_left": 0,
                         "crop_right": 0,
                         "crop_top": 0,
+                        "group_item_backup": false,
                         "id": 3,
                         "locked": false,
                         "name": "Window Capture (Xcomposite)",
@@ -498,6 +387,7 @@
                         "crop_left": 0,
                         "crop_right": 0,
                         "crop_top": 0,
+                        "group_item_backup": false,
                         "id": 4,
                         "locked": false,
                         "name": "Screen Capture (XSHM)",
@@ -526,6 +416,7 @@
                         "crop_left": 0,
                         "crop_right": 0,
                         "crop_top": 0,
+                        "group_item_backup": false,
                         "id": 5,
                         "locked": false,
                         "name": "intellij",
@@ -554,6 +445,7 @@
                         "crop_left": 0,
                         "crop_right": 0,
                         "crop_top": 0,
+                        "group_item_backup": false,
                         "id": 6,
                         "locked": false,
                         "name": "left monitor",
@@ -568,7 +460,7 @@
                             "y": 1.0
                         },
                         "scale_filter": "disable",
-                        "visible": true
+                        "visible": false
                     }
                 ]
             },
@@ -576,6 +468,7 @@
             "volume": 1.0
         },
         {
+            "balance": 0.5,
             "deinterlace_field_order": 0,
             "deinterlace_mode": 0,
             "enabled": true,
@@ -592,7 +485,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "capture_window": "77594626\r\nMinecraft 1.7.10\r\nMinecraft 1.7.10"
+                "capture_window": "111149058\r\nMinecraft 1.7.10\r\nMinecraft 1.7.10"
             },
             "sync": 0,
             "volume": 1.0
