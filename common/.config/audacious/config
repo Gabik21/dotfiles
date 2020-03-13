@@ -5,7 +5,10 @@ generic_title_format=${?artist:${artist} - }${title}
 [audgui]
 about_win=1970,106,582,357
 filebrowser_win=624,281,672,480
+filesel_path=/home/gabriel/Music/XXX
 info_win=667,299,609,445
+jump_to_time_win=2442,421,236,144
+queue_manager_win=2416,397,288,192
 url_opener_win=2368,458,384,183
 
 [gtkui]
@@ -29,12 +32,12 @@ path=/home/gabriel/Music
 equalizer_shaded=TRUE
 equalizer_x=1429
 equalizer_y=297
-player_x=2925
-player_y=56
+player_x=2727
+player_y=248
 playlist_font=Latin Modern Mono 9
 playlist_visible=TRUE
-playlist_x=2925
-playlist_y=172
+playlist_x=2727
+playlist_y=364
 skin=/usr/share/audacious/Skins/Default
 
 [skins-layout]

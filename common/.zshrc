@@ -26,6 +26,10 @@ zle -N history-beginning-search-forward-end history-search-end
 bindkey "^[OA" history-beginning-search-backward-end
 bindkey "^[OB" history-beginning-search-forward-end
 
+# navigate by words
+bindkey "^[[1;5C" forward-word
+bindkey "^[[1;5D" backward-word
+
 # Tab completion
 autoload -U compinit
 zstyle ':completion:*' menu select
@@ -42,6 +46,7 @@ export EDITOR="$VISUAL"
 [ -f "$HOME/.config/aliasrc" ] && source "$HOME/.config/aliasrc"
 
 export LESS='-g -i -M -R -S -w -z-4'
+export MAVEN_OPTS=-Dmaven.artifact.threads=30
 
 # load syntax highlighting
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

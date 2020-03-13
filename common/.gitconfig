@@ -12,3 +12,5 @@
         addfile = "!sh -c \"find . -name $1 -exec git add {} \\;\""
 [commit]
 	gpgsign = true
+[core]
+	autocrlf = input
